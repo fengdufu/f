@@ -51,6 +51,127 @@ YY,#genre#
 抖音,#genre#
 快手,#genre#
 央视,#genre#
+CCTV-1综合,http://A/ku9/js/bestv.js?id=cctv1hd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+CCTV-2财经,http://A/ku9/js/bestv.js?id=cctv2hd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+CCTV-3综艺,http://A/ku9/js/bestv.js?id=cctv38m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+CCTV-4中文国际,http://A/ku9/js/bestv.js?id=cctv4hd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+CCTV-5体育,http://A/ku9/js/bestv.js?id=cctv58m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+CCTV-5+体育赛事,http://A/ku9/js/bestv.js?id=cctv5phd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+CCTV-6电影,http://A/ku9/js/bestv.js?id=cctv6hd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+CCTV-7国防军事,http://A/ku9/js/bestv.js?id=cctv7hd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+CCTV-8电视剧,http://A/ku9/js/bestv.js?id=cctv8hd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+CCTV-9纪录,http://A/ku9/js/bestv.js?id=cctv9hd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+CCTV-10科教,http://A/ku9/js/bestv.js?id=cctv10hd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+CCTV-11戏曲,http://A/ku9/js/bestv.js?id=cctv11hd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+CCTV-12社会与法,http://A/ku9/js/bestv.js?id=cctv12hd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+CCTV-13新闻,http://A/ku9/js/bestv.js?id=cctv13xwhd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+CCTV-14少儿,http://A/ku9/js/bestv.js?id=cctvsehd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+CCTV-15音乐,http://A/ku9/js/bestv.js?id=cctv15hd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+CCTV-16奥林匹克,http://A/ku9/js/bestv.js?id=cctv16hd4k/15000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通4K
+CCTV-16奥林匹克4K,http://A/ku9/js/bestv.js?id=cctv16hd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+CCTV-17农业农村,http://A/ku9/js/bestv.js?id=cctv17hd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+CCTV-4K,http://A/ku9/js/bestv.js?id=cctv4k/15000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通4K
+CCTV-世界地理,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8$1920*1080
+CCTV-兵器科技,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8$1920*1080
+CCTV-文化精品,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8$1920*1080
+CCTV-风云音乐,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8$1920*1080
+CCTV-风云剧场,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8$1920*1080
+CCTV-第一剧场,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8$1920*1080
+CCTV-怀旧剧场,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8$1920*1080
+CCTV-女性时尚,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8$1920*1080
+CCTV-女性时尚,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8$1024*576
+CCTV-风云足球,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8$1920*1080
+CCTV-央视台球,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8$1920*1080
+CCTV-高尔夫网球,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8$1920*1080
+CETV-1,http://A/ku9/js/bestv.js?id=zgjy1t8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+CETV-4,http://A/ku9/js/bestv.js?id=zgjy3hd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+卫视,#genre#
+安徽卫视,http://A/ku9/js/bestv.js?id=ahwshd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+北京卫视,http://A/ku9/js/bestv.js?id=bjwshd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+东方卫视,http://A/ku9/js/bestv.js?id=dfwshd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+东方卫视,http://A/ku9/js/bestv.js?id=jspdhd/4000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+东方卫视,http://A/ku9/js/bestv.js?id=qcxjhd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+东南卫视,http://A/ku9/js/bestv.js?id=dnwshd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+甘肃卫视,http://A/ku9/js/bestv.js?id=gswshd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+广东卫视,http://A/ku9/js/bestv.js?id=gdwshd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+广西卫视,http://A/ku9/js/bestv.js?id=gxwshd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+贵州卫视,http://A/ku9/js/bestv.js?id=gzwshd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+海南卫视,http://A/ku9/js/bestv.js?id=hainanwshd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+河北卫视,http://A/ku9/js/bestv.js?id=hbwshd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+河南卫视,http://A/ku9/js/bestv.js?id=hnwshd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+黑龙江卫视,http://A/ku9/js/bestv.js?id=hljwshd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+湖北卫视,http://A/ku9/js/bestv.js?id=hubeiws8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+湖南卫视,http://A/ku9/js/bestv.js?id=hunanwshd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+吉林卫视,http://A/ku9/js/bestv.js?id=jlwshd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+江苏卫视,http://A/ku9/js/bestv.js?id=jswshd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+江西卫视,http://A/ku9/js/bestv.js?id=jxws8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+辽宁卫视,http://A/ku9/js/bestv.js?id=lnwshd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+山东卫视,http://A/ku9/js/bestv.js?id=sdws8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+深圳卫视,http://A/ku9/js/bestv.js?id=szwshd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+四川卫视,http://A/ku9/js/bestv.js?id=scwshd/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+天津卫视,http://A/ku9/js/bestv.js?id=tjwshd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+云南卫视,http://A/ku9/js/bestv.js?id=ynwshd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+浙江卫视,http://A/ku9/js/bestv.js?id=zjwshd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+重庆卫视,http://A/ku9/js/bestv.js?id=cqws8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+海峡卫视,http://A/ku9/js/bestv.js?id=hxwshd4m/4000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+地理,#genre#
+乐游,http://A/ku9/js/bestv.js?id=qjshd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+纪实科教,http://A/ku9/js/bestv.js?id=dajs8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+金鹰纪实,http://A/ku9/js/bestv.js?id=jyjs8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+看天下精选,http://A/ku9/js/bestv.js?id=ktxjx8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+体育,#genre#
+五星体育,http://A/ku9/js/bestv.js?id=wxtyhd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+劲爆体育,http://A/ku9/js/bestv.js?id=jbtyhd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+魅力足球,http://A/ku9/js/bestv.js?id=mlyyhd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+音乐,#genre#
+戏曲精选,http://A/ku9/js/bestv.js?id=xqjx8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+电影,#genre#
+东方影视,http://A/ku9/js/bestv.js?id=dfyshd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+华语影视,http://A/ku9/js/bestv.js?id=hyyy8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+全球大片,http://A/ku9/js/bestv.js?id=qqdp8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+电视剧,#genre#
+都市剧场,http://A/ku9/js/bestv.js?id=dsjc8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+欢笑剧场,http://A/ku9/js/bestv.js?id=hxjc8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+谍战剧场,http://A/ku9/js/bestv.js?id=dzjc8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+热门剧场,http://A/ku9/js/bestv.js?id=rmjc8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+星光影院,http://A/ku9/js/bestv.js?id=xgyy8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+少儿,#genre#
+卡酷少儿,http://A/ku9/js/bestv.js?id=kkse8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+哈哈炫动,http://A/ku9/js/bestv.js?id=hhxd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+动漫秀场,http://A/ku9/js/bestv.js?id=dmxc8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+宝宝动画,http://A/ku9/js/bestv.js?id=bbdh8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+青春动漫,http://A/ku9/js/bestv.js?id=qcdm8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+综合,#genre#
+新视觉,http://A/ku9/js/bestv.js?id=xsjhd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+茶频道,http://A/ku9/js/bestv.js?id=cpdhdavs8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+热门综艺,http://A/ku9/js/bestv.js?id=rmzy8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+法治天地,http://A/ku9/js/bestv.js?id=fztd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+生活时尚,http://A/ku9/js/bestv.js?id=shss8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+快乐垂钓,http://A/ku9/js/bestv.js?id=klcd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+健康养生,http://A/ku9/js/bestv.js?id=jkys8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+第一财经,http://A/ku9/js/bestv.js?id=dycjhd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+东方财经,http://A/ku9/js/bestv.js?id=dfcjhd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+百变课堂,http://A/ku9/js/bestv.js?id=bbkt8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+金色学堂,http://A/ku9/js/bestv.js?id=jingsepd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+上海,#genre#
+上海新闻综合,http://A/ku9/js/bestv.js?id=xwzhhd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+上海都市,http://A/ku9/js/bestv.js?id=dshd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+上海教育,http://A/ku9/js/bestv.js?id=setvhd/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+上海外语,http://A/ku9/js/bestv.js?id=icshd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+福建,#genre#
+福建综合,http://A/ku9/js/bestv.js?id=fjzhhd4m/4000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+福建新闻,http://A/ku9/js/bestv.js?id=fjxwhd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+福建经济,http://A/ku9/js/bestv.js?id=fjjjshhd4m/4000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+福建公共,http://A/ku9/js/bestv.js?id=fjgghd4m/4000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+福建教育,http://A/ku9/js/bestv.js?id=fjjypdhd4m/4000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+福建文体,http://A/ku9/js/bestv.js?id=fjtyhd4m/4000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+福建旅游,http://A/ku9/js/bestv.js?id=fjlyhd4m/4000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+福建电视剧,http://A/ku9/js/bestv.js?id=fjdsjhd4m/4000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+福建少儿,http://A/ku9/js/bestv.js?id=fjsehd4m/4000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+游戏,#genre#
+游戏风云,http://A/ku9/js/bestv.js?id=yxfy8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+电竞天堂,http://A/ku9/js/bestv.js?id=djtt8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+央视,#genre#
 CCTV-1综合,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000001000018602&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.87.154$8M FHD
 CCTV-1综合,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000004000002226&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.87.154$8M FHD
 CCTV-1综合,http://A/ku9/js/hosts.js?channel-id=wasusyt&Contentid=6000000001000029752&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.87.154$8M FHD
@@ -194,18 +315,6 @@ CCTV-17农业农村,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000
 CCTV-17农业农村,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000011000288014&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.87.154$8M FHD
 CCTV-17农业农村,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000005000265015&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.87.154$6M FHD HEVC
 CCTV-17农业农村,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000005000056836&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.87.154$4M FHD
-CCTV-世界地理,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8$1920*1080
-CCTV-兵器科技,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8$1920*1080
-CCTV-文化精品,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8$1920*1080
-CCTV-风云音乐,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8$1920*1080
-CCTV-风云剧场,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8$1920*1080
-CCTV-第一剧场,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8$1920*1080
-CCTV-怀旧剧场,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8$1920*1080
-CCTV-女性时尚,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8$1920*1080
-CCTV-女性时尚,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8$1024*576
-CCTV-风云足球,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8$1920*1080
-CCTV-央视台球,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8$1920*1080
-CCTV-高尔夫网球,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8$1920*1080
 CETV1,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000011000288015&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.87.154$8M FHD
 CETV1,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000002000027253&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.87.154$4M SD
 CETV1,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000002000002652&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.87.154$4M FHD
@@ -733,8 +842,8 @@ CGTN阿拉伯语,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000
 金色学堂,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000010000026105&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.87.154$8M FHD
 名师公开课,http://A/ku9/js/hosts.js?channel-id=wasusyt&Contentid=6000000003000023702&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.87.154$3M HD
 上海,#genre#
-上海新闻,http://A/ku9/js/hosts.js?channel-id=hnbblive&Contentid=2000000002000000005&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.87.154$8M FHD
-上海新闻,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000011000031110&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.87.154$8M FHD
+上海新闻综合,http://A/ku9/js/hosts.js?channel-id=hnbblive&Contentid=2000000002000000005&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.87.154$8M FHD
+上海新闻综合,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000011000031110&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.87.154$8M FHD
 上海都市,http://A/ku9/js/hosts.js?channel-id=hnbblive&Contentid=2000000002000000012&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.87.154$4M FHD
 上海都市,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000010000018926&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.87.154$4M FHD
 上海教育,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000011000288019&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.87.154$8M FHD
@@ -1480,7 +1589,7 @@ Y+剧场,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=yjjc
 最强综艺趴,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=zqzyp
 历届春晚回顾,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=ljcwhg
 上海,#genre#
-上海综合,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=shxwzh
+上海新闻综合,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=shxwzh
 上海外语,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=shics
 江苏,#genre#
 江苏新闻,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=jsggxw
@@ -1656,7 +1765,7 @@ Y+剧场,http://kxrj.site:9125/6655/mg9.php?id=yjjc
 最强综艺趴,http://kxrj.site:9125/6655/mg9.php?id=zqzyp
 历届春晚回顾,http://kxrj.site:9125/6655/mg9.php?id=ljcwhg
 上海,#genre#
-上海综合,http://kxrj.site:9125/6655/mg9.php?id=shxwzh
+上海新闻综合,http://kxrj.site:9125/6655/mg9.php?id=shxwzh
 上海外语,http://kxrj.site:9125/6655/mg9.php?id=shics
 江苏,#genre#
 江苏新闻,http://kxrj.site:9125/6655/mg9.php?id=jsggxw
