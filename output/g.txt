@@ -68,7 +68,7 @@ CCTV-13新闻,http://A/ku9/js/bestv.js?id=cctv13xwhd8m/8000000&key=脚本免费�
 CCTV-14少儿,http://A/ku9/js/bestv.js?id=cctvsehd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
 CCTV-15音乐,http://A/ku9/js/bestv.js?id=cctv15hd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
 CCTV-16奥林匹克,http://A/ku9/js/bestv.js?id=cctv16hd4k/15000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通4K
-CCTV-16奥林匹克4K,http://A/ku9/js/bestv.js?id=cctv16hd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+CCTV-16奥林匹克,http://A/ku9/js/bestv.js?id=cctv16hd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
 CCTV-17农业农村,http://A/ku9/js/bestv.js?id=cctv17hd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
 CCTV-4K,http://A/ku9/js/bestv.js?id=cctv4k/15000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通4K
 CCTV-世界地理,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8$1920*1080
@@ -310,7 +310,7 @@ CCTV-15音乐,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=4832596595
 CCTV-16奥林匹克,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000006000233002&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.87.154$8M FHD
 CCTV-16奥林匹克,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000008000023253&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.87.154$8M FHD
 CCTV-16奥林匹克,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000006000233001&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.87.154$4M FHD
-CCTV-16奥林匹克4K,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000008000023254&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.87.154$12M UHD HEVC
+CCTV-16奥林匹克,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000008000023254&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.87.154$12M UHD HEVC
 CCTV-17农业农村,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000006000268004&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.87.154$8M FHD
 CCTV-17农业农村,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000011000288014&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.87.154$8M FHD
 CCTV-17农业农村,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000005000265015&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.87.154$6M FHD HEVC
