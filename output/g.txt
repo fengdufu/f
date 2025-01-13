@@ -83,8 +83,8 @@ CCTV-女性时尚,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/8
 CCTV-风云足球,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8$1920*1080
 CCTV-央视台球,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8$1920*1080
 CCTV-高尔夫网球,http://[2409:8087:7008:20::d]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8$1920*1080
-CETV-1,http://A/ku9/js/bestv.js?id=zgjy1t8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
-CETV-4,http://A/ku9/js/bestv.js?id=zgjy3hd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+CETV1,http://A/ku9/js/bestv.js?id=zgjy1t8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+CETV4,http://A/ku9/js/bestv.js?id=zgjy3hd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
 卫视,#genre#
 安徽卫视,http://A/ku9/js/bestv.js?id=ahwshd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
 北京卫视,http://A/ku9/js/bestv.js?id=bjwshd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
@@ -171,6 +171,7 @@ CETV-4,http://A/ku9/js/bestv.js?id=zgjy3hd8m/8000000&key=脚本免费，请勿�
 游戏,#genre#
 游戏风云,http://A/ku9/js/bestv.js?id=yxfy8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
 电竞天堂,http://A/ku9/js/bestv.js?id=djtt8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$百事通8M
+央视,#genre#
 CCTV-1综合,http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078203.m3u8$1920*1080央视频
 CCTV-1综合,http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078226.m3u8$1920*1080央视频
 CCTV-2财经,http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024075403.m3u8$1920*1080央视频
