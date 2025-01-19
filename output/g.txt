@@ -2065,7 +2065,9 @@ AM954KHz,http://A/ku9/js/hangzhou.js?id=r5
 陕西新闻资讯,http://A/ku9/js/shaanxi.js?id=sxtvs1
 陕西都市青春,http://A/ku9/js/shaanxi.js?id=sxtvs2
 陕西银龄,http://A/ku9/js/shaanxi.js?id=sxtvs3
+陕西公共频道,http://A/ku9/js/shaanxi.js?id=sxtvs4
 陕西秦腔,http://A/ku9/js/shaanxi.js?id=sxtvs5
+陕西财经,http://A/ku9/js/shaanxi.js?id=sxtvs6
 陕西体育休闲,http://A/ku9/js/shaanxi.js?id=sxtvs7
 西安新闻综合,http://A/ku9/js/shenzhen.js?QUN=酷9-JS交流群424765458&id=xaxwzh
 榆林新闻综合,http://A/ku9/js/shenzhen.js?QUN=酷9-JS交流群424765458&id=ylxwzh
@@ -2079,6 +2081,13 @@ AM954KHz,http://A/ku9/js/hangzhou.js?id=r5
 汉中新闻综合,http://A/ku9/js/shenzhen.js?QUN=酷9-JS交流群424765458&id=hzxwzh
 铜川综合频道,http://A/ku9/js/tongchuan.js?id=tczhpd
 铜川公共频道,http://A/ku9/js/tongchuan.js?id=tcggpd
+西安新闻综合,http://A/ku9/js/xian.js?id=1
+西安都市频道,http://A/ku9/js/xian.js?id=2
+西安商务资讯,http://A/ku9/js/xian.js?id=3
+西安戏剧影视,http://A/ku9/js/xian.js?id=4
+西安丝路频道,http://A/ku9/js/xian.js?id=5
+西安乐购购物,http://A/ku9/js/xian.js?id=6
+西安移动电视,http://A/ku9/js/xian.js?id=7
 四川,#genre#
 康巴卫视,http://A/ku9/js/kangba.js?id=17
 成都新闻综合,http://A/ku9/js/cdtv.js?id=cdxwzh
@@ -2149,6 +2158,7 @@ AM954KHz,http://A/ku9/js/hangzhou.js?id=r5
 宁波生活,http://A/ku9/js/ningbo.js?id=ningbo2
 宁波文化,http://A/ku9/js/ningbo.js?id=ningbo3
 宁波影视,http://A/ku9/js/ningbo.js?id=ningbo4
+央视,#genre#
 CCTV-1综合,http://120.76.248.139/live/bfgd/4200000201.m3u8$1920*1080 北方广电
 CCTV-1综合,http://120.76.248.139/live/bfgd/4200000484.m3u8$1920*1080 北方广电
 CCTV-1综合,http://120.76.248.139/live/bfgd/4200000488.m3u8$1920*1080 北方广电
@@ -2193,6 +2203,7 @@ CGTN阿拉伯语,http://120.76.248.139/live/bfgd/4200000308.m3u8$768*576 北方�
 安徽卫视,http://120.76.248.139/live/bfgd/4200000096.m3u8$1920*1080 北方广电
 北京卫视,http://120.76.248.139/live/bfgd/4200000083.m3u8$1920*1080 北方广电
 东方卫视,http://120.76.248.139/live/bfgd/4200000093.m3u8$1920*1080 北方广电
+东方卫视,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8$1920*1080 AKTV
 东南卫视,http://120.76.248.139/live/bfgd/4200000483.m3u8$1920*1080 北方广电
 甘肃卫视,http://120.76.248.139/live/bfgd/4200000119.m3u8$1920*1080 北方广电
 甘肃卫视,https://hls.gstv.com.cn/9hvng2/hcoqhp.m3u8$960*540 甘肃
@@ -2242,6 +2253,8 @@ Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8$3840*2160
 FTVUHD,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8$3840*2160 官网
 FashionTV,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8$960*540 官网
 FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8$800*453 
+LoveNature,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8$1920*1080 AKTV
+LoveNature,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8$1920*1080 AKTV
 LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$3840*2160 
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8$1280*720 61.221.215.42
 纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8$1920*1080 北方广电
@@ -2255,6 +2268,7 @@ LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$3840*2160
 体育,#genre#
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8$1920*1080 体育
 先锋乒羽,http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/XFPYMPP360.m3u8$640*360 湖南
+纬来体育,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8$1920*1080 AKTV
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721$1280*720 体育
 纬来体育,rtmp://f13h.mine.nu/sat/tv721$1280*720 f20h.mine.nu
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731$1280*720 f21h.mine.nu
@@ -2285,9 +2299,13 @@ SONGTVRussia,https://songtv.hls.iptvdc.com/web-russia/index.m3u8$1280*720 音乐
 VoiceOverRadioTV,https://cloudvideo.servers10.com:8081/8198/index.m3u8$1280*720 音乐
 СтранаФМ,https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8$1280*720 音乐
 电影,#genre#
+PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8$1920*1080 AKTV
+爱奇艺,http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8$1920*1080 AKTV
 1905国内,http://php.jdshipin.com:8880/1905.php?id=1905dy$1920*1080 jdshipin
 1905环球,http://php.jdshipin.com:8880/1905.php?id=1905dy2$1920*1080 jdshipin
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv$1920*1080 辽宁
+重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd$1920*1080 jdshipin
+重温经典,http://mtw.so/5NPX0U$1920*1080 
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv$1920*1080 安徽
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8$1920*1080 安徽
 北京影视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226486/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ed6HjPoy_r3kKhTFRhXTPzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 移动
@@ -2295,6 +2313,7 @@ VoiceOverRadioTV,https://cloudvideo.servers10.com:8081/8198/index.m3u8$1280*720 
 广州影视,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8$1280*720 广东
 广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=2b09d952702fe2c67ddad695faa4c27c&txTime=191b5db5ed0$1280*720 广东
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi$1280*720 jdshipin
+广州影视,https://tencentplaywebsite.gztv.com/live/yingshi.m3u8?txSecret=074974bc25835d38fda6936ae40aabe9&txTime=193108637cb$1280*720 
 湖南电影,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=7884242846753128038$1047*576 jdshipin
 湖南电影,http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/HNDYMPP360.m3u8$640*360 湖南
 湖南电影,http://php.jdshipin.com:8880/iptv.php?id=hndy$640*360 jdshipin
@@ -2305,6 +2324,11 @@ VoiceOverRadioTV,https://cloudvideo.servers10.com:8081/8198/index.m3u8$1280*720 
 江苏影视,https://025365.xyz:8082/jstv.php?id=jsgg$1280*720 江苏
 军事大片,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=jsdp$1280*720 辽宁
 AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$1280*720 61.221.215.31
+靖天电影,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8$1920*1080 AKTV
+龙华电影,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8$1920*1080 AKTV
+龙华经典,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8$1920*1080 AKTV
+美亚电影台,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8$1920*1080 AKTV
+天映频道,http://205.185.123.236:8899/astro/tianying/tianying.m3u8$1920*1080 
 电视剧,#genre#
 淘剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2CEND&GuardEncType=2$1920*1080 移动
 湖南电视剧,http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/HNDSJMPP360.m3u8$640*360 湖南
@@ -2321,7 +2345,10 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$1280*720 61.221.215.31
 优漫卡通,https://025365.xyz:8082/jstv.php?id=jsgj$1280*720 
 动漫,http://61.221.215.25:8800/hls/40/index.m3u8$1280*720 61.221.215.29
 ViuTV,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8$1920*1080 辽宁
+ViuTV,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8$1920*1080 AKTV
+ViuTV6,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8$1920*1080 AKTV
 炫动3D,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000003000000558$1280*720 jdshipin
+i-Fun动漫,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8$1920*1080 AKTV
 综合,#genre#
 茶频道,http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/CPDMPP360.m3u8$640*360 湖南
 快乐垂钓,http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/KLCDMPP360.m3u8$640*360 湖南
@@ -2339,53 +2366,112 @@ ViuTV,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8$1920*1080 辽宁
 香港,#genre#
 凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8$1920*1080 香港
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$1920*1080 jdshipin
+凤凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8$1920*1080 AKTV
 凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8$1920*1080 香港
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$1920*1080 jdshipin
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$1920*1080 jdshipin
+凤凰资讯,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8$1920*1080 AKTV
+凤凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8$1920*1080 AKTV
+星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$1920*1080 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$1024*576 香港
 香港卫视,http://anren.live/HK/BSJDUFpB.m3u8$1024*576 香港
 亚洲卫视,https://play-hsbj.vzan.com/slowlive/821481626725612418/live.m3u8$1920*1080 香港
 翡翠台4K,http://cdn.132.us.kg/live/fct4k/stream.m3u8$3840*2160 香港
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8$1920*1080 AKTV
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct$1280*720 jdshipin
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade$1280*720 jdshipin
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn$1280*720 jdshipin
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3$1280*720 jdshipin
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3$1280*720 jdshipin
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali$1280*720 jdshipin
+翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn$1280*720 jdshipin
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8$1920*1080 AKTV
+明珠剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8$1920*1080 AKTV
+千禧经典,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8$1920*1080 AKTV
+千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc$1280*720 jdshipin
 星光综合,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv$1280*720 香港
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8$1920*1080 香港
 欧洲华文电视2,http://delive.eztv.vip/dehwet/dehwet.m3u8?auth_key=1718979320-0-0-25e8b6e9c285f63c8db67c2623deee71$1920*1080 香港
 生命电视,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8$1920*1080 香港
 香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8$1280*720 香港
 无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn$1920*1080 jdshipin
+无线新闻台,http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8$1920*1080 AKTV
+无线新闻台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8$1920*1080 AKTV
+Now爆谷台,http://205.185.123.236:8899/1/baogutai/baogu.m3u8$1920*1080 
 TVBJ1,http://cdn3.132.us.kg/live/j1/stream.m3u8$1920*1080 香港
+TVBPlus,http://cdn.132.us.kg/live/tvbp/stream.m3u8$1920*1080 香港
+TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2$1920*1080 jdshipin
+TVBPlus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8$1920*1080 AKTV
+TVB剧集,http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8$1920*1080 AKTV
+TVB剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod$1280*720 jdshipin
+TVB星河,http://aktv.top/AKTV/live/aktv3/astroxinghe/AKTV.m3u8$1920*1080 AKTV
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe$1280*720 jdshipin
 TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe$1280*720 jdshipin
 TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe$1280*720 jdshipin
 TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe$1280*720 jdshipin
-TVBPlus,http://cdn.132.us.kg/live/tvbp/stream.m3u8$1920*1080 香港
-TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=j2$1920*1080 jdshipin
+TVB星河,http://php.jdshipin.com/smt.php?id=Xinhe$1280*720 jdshipin
+TVB功夫,http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8$1280*720 
+TVB华丽,http://php.jdshipin.com/smt.php?id=Tvbjade$1280*720 jdshipin
+TVB华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali$1280*720 jdshipin
+TVB直播,http://v2h.jdshipin.com/liveshow/liveshow.stream/chunklist_w10.m3u8$1280*720 
+TVB黄金翡翠,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8$1920*1080 AKTV
+RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8$1280*720 
+RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8$1280*720 
+RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8$640*360 
 HOY77,http://cdn.132.us.kg/live/hoy/stream.m3u8$1920*1080 香港
+MytvSuper18,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8$1920*1080 AKTV
+Channel5,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8$1920*1080 AKTV
+Channel8,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8$1920*1080 AKTV
+ChannelU,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8$1920*1080 AKTV
+香港_C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8$1920*1080 
+无线新闻,http://php.jdshipin.com/smt.php?id=inews_twn$1920*1080 jdshipin
+亚洲新闻,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8$1920*1080 AKTV
+娱乐新闻,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8$1920*1080 AKTV
+娱乐新闻,http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8$1920*1080 AKTV
+28AI智慧赛马,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8$1920*1080 AKTV
 澳门,#genre#
 台湾,#genre#
+华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8$1920*1080 AKTV
 华视,rtmp://f13h.mine.nu/sat/tv111$1280*720 f13h.mine.nu
 民视,rtmp://f13h.mine.nu/sat/tv051$1280*720 f14h.mine.nu
 台视,rtmp://f13h.mine.nu/sat/tv071$1280*720 f15h.mine.nu
+中视,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8$1920*1080 AKTV
 中视,rtmp://f13h.mine.nu/sat/tv091$1280*720 f16h.mine.nu
 番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8$1920*1080 61.216.67.119
 番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8$1920*1080 61.216.67.119
 番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8$1920*1080 61.216.67.119
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8$1920*1080 AKTV
+TVBS新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8$1920*1080 AKTV
+TVBS新闻,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8$1920*1080 AKTV
 TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8$1280*720 61.221.215.27
+AnimaX,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8$1920*1080 AKTV
+KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8$1920*1080 AKTV
 momoTV,rtmp://f13h.mine.nu/sat/tv761$1280*720 f23h.mine.nu
+ROCKAction,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8$1920*1080 AKTV
+Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8$1920*1080 AKTV
+tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8$1920*1080 AKTV
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8$1280*720 61.221.215.40
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8$1280*720 61.221.215.41
 东森超视,rtmp://f13h.mine.nu/sat/tv331$1280*720 f17h.mine.nu
+东森新闻,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8$1920*1080 AKTV
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581$1280*720 f18h.mine.nu
+寰宇新闻,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8$1920*1080 AKTV
+龙华日韩,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8$1920*1080 AKTV
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/playlist.m3u8$1280*720 61.216.67.119
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8$1280*720 61.221.215.35
 纬来日本,rtmp://f13h.mine.nu/sat/tv771$1280*720 f24h.mine.nu
 纬来娱乐,rtmp://f13h.mine.nu/sat/tv701$1280*720 f19h.mine.nu
+中天新闻,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8$1920*1080 AKTV
+中天亚洲,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8$1920*1080 AKTV
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8$1280*720 61.221.215.34
+AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8$1920*1080 AKTV
+AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8$1920*1080 AKTV
+DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8$1920*1080 AKTV
+France24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8$1920*1080 AKTV
+NHK东京综合,http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8$1920*1080 AKTV
+Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8$1920*1080 AKTV
+NickJr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8$1920*1080 AKTV
+ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8$1920*1080 AKTV
 安徽,#genre#
 安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959.flv$1920*1080 安徽
 安徽经济生活,http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8$1920*1080 安徽
@@ -2456,19 +2542,24 @@ momoTV,rtmp://f13h.mine.nu/sat/tv761$1280*720 f23h.mine.nu
 南国都市,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8$1920*1080 广东
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7$1920*1080 广东
 南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo$1920*1080 jdshipin
+南国都市,https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=e93eb85173edb8a0c70fd1438c7bd7d7&txTime=193108637cb$1920*1080 
 广东珠江,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdzj$1920*1080 jdshipin
 广东民生,http://121.33.239.242:9901/tsfile/live/1003_1.m3u8$1024*576 广东
 广州,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8$1280*720 广东
 广州,https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=439b0fd2cf766b363c93a59cbcbe1370&txTime=18d00acf488$1280*720 广东
 广州,http://php.jdshipin.com:8880/gztv.php?id=zhonghe$1280*720 jdshipin
+广州综合,https://tencentplaywebsite.gztv.com/live/zonghes.m3u8?txSecret=751b5ecd94a0d9d34c7e37e25bb8b27a&txTime=193108637cb$1280*720 
 广州新闻,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8$1280*720 广东
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a$1280*720 广东
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen$1280*720 jdshipin
+广州新闻,https://tencentplaywebsite.gztv.com/live/xinwen.m3u8?txSecret=c53d0e4d014632321a8e0efd6abecda4&txTime=193108637cb$1280*720 
 广州法治,http://tencentplaygzrb01.gztv.com/live/fazhi.m3u8$1280*720 广东
 广州法治,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=4400d75d2114b2db07d86eda8f8218ee&txTime=191b60ce0f6$1280*720 广东
 广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi$1280*720 jdshipin
+广州法治,https://tencentplaywebsite.gztv.com/live/fazhi.m3u8?txSecret=f84d116447cf4c6fc8a66820d3fa2777&txTime=193108637cb$1280*720 
 广州竞赛,http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8$1280*720 广东
 广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca$1280*720 广东
+广州竞赛,https://tencentplaywebsite.gztv.com/live/jingsai.m3u8?txSecret=cd5eb475078e689b230ada7df792e4de&txTime=193108637cb$1280*720 
 东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8$1280*720 广东
 东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh$1280*720 jdshipin
 东莞生活资讯,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8$1280*720 广东
@@ -3273,13 +3364,19 @@ momoTV,rtmp://f13h.mine.nu/sat/tv761$1280*720 f23h.mine.nu
 陕西移动电视,http://stream.snrtv.com/sxbc-yd-uyZ348.m3u8$720*406 陕西
 陕西乐家购物,http://tvplay.lejogo.com/sxtv6/cnwest.m3u8?auth_token=1909756800-20226157-2022618-ff6b71f2cbc1c9b95d91af67b1bac497$720*406 陕西
 陕西乐家购物,http://gxlive.snrtv.com/sx6-SD.m3u8$720*405 地方
-西安新闻综合,http://xatv-yt.xiancity.cn/live/1/index.m3u8$1920*1080 陕西
-西安都市频道,http://xatv-yt.xiancity.cn/live/2/index.m3u8$1920*1080 陕西
-西安商务资讯,http://xatv-yt.xiancity.cn/live/3/index.m3u8$1920*1080 陕西
-西安戏剧影视,http://xatv-yt.xiancity.cn/live/4/index.m3u8$1920*1080 陕西
-西安丝路频道,http://xatv-yt.xiancity.cn/live/5/index.m3u8$1920*1080 陕西
-西安乐购购物,http://xatv-yt.xiancity.cn/live/6/index.m3u8$1920*1080 陕西
-西安移动电视,http://xatv-yt.xiancity.cn/live/7/index.m3u8$1920*1080 陕西
+西安新闻综合,http://xatv-yt.xiancity.cn/live/1/index.m3u8$1920*1080 官网
+西安新闻综合,http://p.ytelc.com/169l/shaanxi/xatv-api.php?id=xatv1$1920*1080 PHP
+西安都市频道,http://xatv-yt.xiancity.cn/live/2/index.m3u8$1920*1080 官网
+西安都市频道,http://p.ytelc.com/169l/shaanxi/xatv-api.php?id=xatv2$1920*1080 PHP
+西安商务资讯,http://xatv-yt.xiancity.cn/live/3/index.m3u8$1920*1080 官网
+西安商务资讯,http://p.ytelc.com/169l/shaanxi/xatv-api.php?id=xatv3$1920*1080 PHP
+西安戏剧影视,http://xatv-yt.xiancity.cn/live/4/index.m3u8$1920*1080 官网
+西安戏剧影视,http://p.ytelc.com/169l/shaanxi/xatv-api.php?id=xatv4$1920*1080 PHP
+西安丝路频道,http://xatv-yt.xiancity.cn/live/5/index.m3u8$1920*1080 官网
+西安丝路频道,http://p.ytelc.com/169l/shaanxi/xatv-api.php?id=xatv5$1920*1080 PHP
+西安乐购购物,http://xatv-yt.xiancity.cn/live/6/index.m3u8$1920*1080 官网
+西安乐购购物,http://p.ytelc.com/169l/shaanxi/xatv-api.php?id=xatv6$1920*1080 PHP
+西安移动电视,http://xatv-yt.xiancity.cn/live/7/index.m3u8$1920*1080 官网
 延安综合,http://live.cloud.yanews.cn/video/s10001-YATV-1/index.m3u8$1280*720 陕西
 延安综合,http://lives.cloud.yanews.cn/video/s10001-YATV-1/index.m3u8$1280*720 陕西
 延安公共,http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8$1280*720 陕西
@@ -3617,6 +3714,7 @@ ANM,https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist
 FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8$1280*720 国际
 GOOD2TV,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8$1280*720 国际
 HTB,http://stream02.vnet.am/HTB/mono.m3u8$1047*576 国际
+NHKWorld,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8$1920*1080 AKTV
 NHKWORLD,http://61.221.215.25:8800/hls/51/index.m3u8$1280*720 61.221.215.38
 TrtWorld,http://61.221.215.25:8800/hls/0/index.m3u8$1280*720 61.221.215.25
 半岛电视(阿拉伯),https://live-hls-web-ajb.getaj.net/AJB/01.m3u8$1920*1080 国际
@@ -3631,6 +3729,7 @@ TrtWorld,http://61.221.215.25:8800/hls/0/index.m3u8$1280*720 61.221.215.25
 购物,#genre#
 快乐购,http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/KLGMPP360.m3u8$640*360 湖南
 优购物,https://tvlive.ugoshop.com/ugotvlive/ugotv01.m3u8?auth_key=2312509421-0-0-f8f7e886fe98ee0a0c01458710bf26d3$853*480 地方
+日本全天新闻,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8$1920*1080 AKTV
 购物,#genre#
 好易购,http://A/ku9/js/zhejiang.js?id=zjhyg
 YY,#genre#
