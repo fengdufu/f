@@ -1998,96 +1998,210 @@ AM954KHz,http://A/ku9/js/hangzhou.js?id=r5
 宁波生活,http://A/ku9/js/ningbo.js?id=ningbo2
 宁波文化,http://A/ku9/js/ningbo.js?id=ningbo3
 宁波影视,http://A/ku9/js/ningbo.js?id=ningbo4
+嵊泗新闻综合,http://A/ku9/js/migu.js?id=ssxwzh
+普陀新闻综合,http://A/ku9/js/migu.js?id=ptxwzh
 央视,#genre#
 CCTV-1综合,http://120.76.248.139/live/bfgd/4200000201.m3u8$1920*1080 北方广电
 CCTV-1综合,http://120.76.248.139/live/bfgd/4200000484.m3u8$1920*1080 北方广电
 CCTV-1综合,http://120.76.248.139/live/bfgd/4200000488.m3u8$1920*1080 北方广电
 CCTV-1综合,http://120.76.248.139/live/bfgd/4200000489.m3u8$1920*1080 北方广电
 CCTV-1综合,http://120.76.248.139/live/bfgd/4200000501.m3u8$1920*1080 北方广电
+CCTV-1综合,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+CCTV-1综合,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND$1920*1080 北京移动
 CCTV-2财经,http://120.76.248.139/live/bfgd/4200000061.m3u8$1920*1080 北方广电
+CCTV-2财经,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+CCTV-2财经,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXKnFU9T505QMpWLcYnx3uQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNbiZgR_ywo1Ht-jnnl-lZ2%2CEND$1920*1080 北京移动
 CCTV-3综艺,http://120.76.248.139/live/bfgd/4200000062.m3u8$1920*1080 北方广电
+CCTV-3综艺,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_6GNVcVOz9Xub8CclyMRUg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND$768*576 北京移动
 CCTV-4中文国际,http://120.76.248.139/live/bfgd/4200000063.m3u8$1920*1080 北方广电
+CCTV-4中文国际,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+CCTV-4中文国际,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0wP1dRMt9qCzHdvA65wh1w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMcuN2HH7RLPyPHWOUWhSMk%2CEND$1920*1080 北京移动
 CCTV-4中文国际欧洲,https://www.freetv.top/migu/608807419.m3u8?migutoken=9440d28362fc3471b88a5c32b1d0f83801a2ee8d3a3c8bce6dd11cba875bcdc7e7204a70f74681f45030e76ea56bddfc5d02d0eec8712d1ba043b8ec561ec5d13ff6e08ae3127f1849851b598e$1920*1080 咪咕
 CCTV-4中文国际美洲,https://www.freetv.top/migu/608807416.m3u8?migutoken=3d8268a79ddaa00e4da779b230457823466b3b155fafaa6c4cb11de7699ca238ad4467ce0e258ef42f08830f24e436bb21da53505587841b472b883a72b2f551571d981a00160bcccb3ed6db3a$1920*1080 咪咕
 CCTV-4中文国际美洲,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$1920*1080 
 CCTV-5体育,http://120.76.248.139/live/bfgd/4200000064.m3u8$1920*1080 北方广电
+CCTV-5体育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226454/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErKwB8Qqtvssoy-K7GEgesQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND$768*576 北京移动
 CCTV-5+体育赛事,http://120.76.248.139/live/bfgd/4200000246.m3u8$1920*1080 北方广电
+CCTV-5+体育赛事,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+CCTV-5+体育赛事,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226458/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Em70vyfVI_MkrcLYjHWnqOA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNlS0O1LA8iGydXPYujpRue%2CEND$1920*1080 北京移动
 CCTV-6电影,http://120.76.248.139/live/bfgd/4200000065.m3u8$1920*1080 北方广电
+CCTV-6电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226453/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex56LEwufYqPdJkUNYhbNCw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOH2PzEhAK60LI_FWtVxfVS%2CEND$768*576 北京移动
 CCTV-7国防军事,http://120.76.248.139/live/bfgd/4200000127.m3u8$1920*1080 北方广电
+CCTV-7国防军事,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2bEV_zkW1hRnWmsZq6rlbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+CCTV-7国防军事,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EutDC7HLJc_gC0YdIDr7oig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPOHuulzlCcw92vP3vgYa4n%2CEND$1920*1080 北京移动
 CCTV-8电视剧,http://120.76.248.139/live/bfgd/4200000066.m3u8$1920*1080 北方广电
+CCTV-8电视剧,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226451/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EO_1NY-UghfdG_S28Bf_FPw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO1anuaDcpMt0_BMig72trX%2CEND$768*576 北京移动
 CCTV-9纪录,http://120.76.248.139/live/bfgd/4200000128.m3u8$1920*1080 北方广电
+CCTV-9纪录,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EgdZMBjOTdDWVEgovFkZoew%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+CCTV-9纪录,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E4MVygPhhOzP-asbwwK-xxQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNrSBaNpUlqzSGshVHVkjfP%2CEND$1920*1080 北京移动
 CCTV-10科教,http://120.76.248.139/live/bfgd/4200000129.m3u8$1920*1080 北方广电
+CCTV-10科教,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Egbbk6OxyTS2utbJWm7Qw1w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+CCTV-10科教,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226449/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EzhRgoBfyoaW0eC2lnTJYAQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOxqyo6ss4VuHKCaIhF4e3B%2CEND$768*576 北京移动
 CCTV-11戏曲,http://120.76.248.139/live/bfgd/4200000130.m3u8$1920*1080 北方广电
+CCTV-11戏曲,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0RcQQbNseiHvFO8XWf466A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+CCTV-11戏曲,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226448/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eqfhzy1ZrFZrYrATDOB991A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOu522yjh6D1Z_dApuOt9eE%2CEND$768*576 北京移动
 CCTV-12社会与法,http://120.76.248.139/live/bfgd/4200000131.m3u8$1920*1080 北方广电
+CCTV-12社会与法,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E9nVa4WyKpuJgFy6Zh4TplQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+CCTV-12社会与法,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2knJCFLHz_HqfBZXNGeA1A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMIlZ5z7o_ym15iMooogSvj%2CEND$1920*1080 北京移动
 CCTV-13新闻,http://120.76.248.139/live/bfgd/4200000067.m3u8$1920*1080 北方广电
+CCTV-13新闻,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+CCTV-13新闻,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226446/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EU-IJJyzlYeEElWsacI4JKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMT7DWkynQtRPzNDJCOY_C_%2CEND$768*576 北京移动
 CCTV-14少儿,http://120.76.248.139/live/bfgd/4200000132.m3u8$1920*1080 北方广电
+CCTV-14少儿,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EgtTqPYLE5COifF-qvYi2Ig%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+CCTV-14少儿,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey_UgKg-_uoDiTW1MNHptPg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNLabf3bHEXv4444iiOs_Px%2CEND$1920*1080 北京移动
 CCTV-15音乐,http://120.76.248.139/live/bfgd/4200000133.m3u8$1920*1080 北方广电
+CCTV-15音乐,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWyklhmFh7oMx-lG1tNUcSQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+CCTV-15音乐,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226444/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EFQ8BWVFffGkwLTLNv7CwFQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM7I2coCeiP5K0pSIMZqcUB%2CEND$768*576 北京移动
+CCTV-16奥林匹克,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+CCTV-16奥林匹克,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPt5W7-RovMDpE-7B-0PhHw%2CEND$1920*1080 北京移动
 CCTV-17农业农村,http://120.76.248.139/live/bfgd/4200000204.m3u8$1920*1080 北方广电
+CCTV-17农业农村,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEkwQnoHNXRDb-IayWakK1A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+CCTV-17农业农村,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EtihRNVe_x2y1Lgi_XWYeNw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOl8OnsD1vPD0mhNmo98J3J%2CEND$768*576 北京移动
 CCTV-世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8$768*576 北方广电
 CCTV-怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8$768*576 北方广电
 CCTV-女性时尚,http://120.76.248.139/live/bfgd/4200000176.m3u8$768*576 北方广电
 CCTV-电视指南,http://120.76.248.139/live/bfgd/4200000164.m3u8$768*576 北方广电
 CCTV-风云足球,http://120.76.248.139/live/bfgd/4200000225.m3u8$768*576 北方广电
 CETV1,http://120.76.248.139/live/bfgd/4200000135.m3u8$1920*1080 北方广电
+CETV1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EB8MrpAzJ_Bw12HHVBcZO6g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONWWecbSKZXNjh_5hExtTC%2CEND$1920*1080 北京移动
+CETV1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227021/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ELlgU9sgTT7iMtFgKHFa-dA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1024*576 北京移动
 CETV2,http://120.76.248.139/live/bfgd/4200000492.m3u8$1024*576 北方广电
+CETV2,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND$785*576 北京移动
+CETV3,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhE2Z89HKgsQOlN9opVn1iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN03yUnk4zBVk1bynPPL3hZ%2CEND$1280*720 北京移动
+CETV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1024*576 北京移动
+CETV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226557/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBzZToIaOOoaa_jAUfhUQHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOD9BEmVSNbqSQpqXZxnxbk%2CEND$785*576 北京移动
 书画频道,http://120.76.248.139/live/bfgd/4200000180.m3u8$768*576 北方广电
 国学频道,http://120.76.248.139/live/bfgd/4200000169.m3u8$768*576 北方广电
 中央新影老故事,http://120.76.248.139/live/bfgd/4200000166.m3u8$768*576 北方广电
 中央新影发现之旅,http://120.76.248.139/live/bfgd/4200000151.m3u8$768*576 北方广电
+CGTN,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eb26wc0XXKkqPiVtXlNQMiQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1024*576 北京移动
 CGTN,http://120.76.248.139/live/bfgd/4200000134.m3u8$768*576 北方广电
+CGTN,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226443/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ebu8iDniP_aAtg-APxKXKAA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOeLGc8fhipDF_paLm6VUd-%2CEND$768*576 北京移动
+CGTN纪录,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227006/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EYcJ3PdHkzUJtmPevi5x_2A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1024*576 北京移动
+CGTN纪录,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226901/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EIDa9eQPW7MPnVG3tWV9L_A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM7UiApo13jd7QHhKfvQCvE%2CEND$768*576 北京移动
+CGTN俄语,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227038/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnNP_kmf5g3OZQXDWZHNpOA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1024*576 北京移动
+CGTN俄语,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227038/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnNP_kmf5g3OZQXDWZHNpOA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONS2RAhxb5u6NYaMGGM23S%2CEND$1024*576 北京移动
 CGTN俄语,http://120.76.248.139/live/bfgd/4200000309.m3u8$768*576 北方广电
+CGTN法语,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227034/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnmNWt4gIKrkCWjuWofLapQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1024*576 北京移动
+CGTN法语,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227034/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnmNWt4gIKrkCWjuWofLapQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMIdWbuxQqiCSe0m2VF_WFN%2CEND$1024*576 北京移动
 CGTN法语,http://120.76.248.139/live/bfgd/4200000307.m3u8$768*576 北方广电
+CGTN西班牙语,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227030/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWR3JI0iklU2klIzSzhH6nA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1024*576 北京移动
+CGTN西班牙语,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227030/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWR3JI0iklU2klIzSzhH6nA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNcVQYgQEjmQ1Kehqyp6Sje%2CEND$1024*576 北京移动
 CGTN西班牙语,http://120.76.248.139/live/bfgd/4200000306.m3u8$768*576 北方广电
+CGTN阿拉伯语,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227023/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsOnjStoSIBiRDXRm4N42Zw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1024*576 北京移动
+CGTN阿拉伯语,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227023/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsOnjStoSIBiRDXRm4N42Zw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN0Rjp499O2_vHkE1RKEoQC%2CEND$1024*576 北京移动
 CGTN阿拉伯语,http://120.76.248.139/live/bfgd/4200000308.m3u8$768*576 北方广电
 卫视,#genre#
 安徽卫视,http://120.76.248.139/live/bfgd/4200000096.m3u8$1920*1080 北方广电
+安徽卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226943/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0QmKQ_slRCwvVVUUfxPVbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+安徽卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226490/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcN5s_AlHugvAv9Pda6f9fA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOtRTFrO5eKiKNV40gMGHaS%2CEND$768*576 北京移动
 北京卫视,http://120.76.248.139/live/bfgd/4200000083.m3u8$1920*1080 北方广电
+北京卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+北京卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ElMQ3ov45VmhzipweN5VstQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPg_yZ8DZHTaSU92MIl_o3b%2CEND$1920*1080 北京移动
 东方卫视,http://120.76.248.139/live/bfgd/4200000093.m3u8$1920*1080 北方广电
 东方卫视,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8$1920*1080 AKTV
+东方卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0uh4lyjjBCCN7TCq21vSIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+东方卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EuOKqNaOUqqiJjXIfPoRPMQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNeqgYr1eA9ESriCOsl_DTz%2CEND$1920*1080 北京移动
 东南卫视,http://120.76.248.139/live/bfgd/4200000483.m3u8$1920*1080 北方广电
+东南卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226991/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQ6F5Mjgs0tJyEArWFL3vQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+东南卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226496/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkZUfG47p98m2PZiCsgkhyQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM5EcQIH6BiwZavlhPLb4oJ%2CEND$1920*1080 北京移动
 甘肃卫视,http://120.76.248.139/live/bfgd/4200000119.m3u8$1920*1080 北方广电
+甘肃卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227003/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESco1zinvdUYzleEkXYhIvA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1024*576 北京移动
 甘肃卫视,https://hls.gstv.com.cn/9hvng2/hcoqhp.m3u8$960*540 甘肃
+甘肃卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226545/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EPxObabIs3mLyPmSf2HHtqQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNBE3K16ZfzYGIqbP6z6cGJ%2CEND$768*576 北京移动
 广东卫视,http://120.76.248.139/live/bfgd/4200000092.m3u8$1920*1080 北方广电
+广东卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+广东卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsOwFRXT0-jLOJsddrbdfkw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPSqjXe5wfGqWHn9iVn3DhQ%2CEND$1920*1080 北京移动
 广西卫视,http://120.76.248.139/live/bfgd/4200000116.m3u8$1920*1080 北方广电
+广西卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227010/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkAhb-89sxdm9fz6-heXCuw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+广西卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226534/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EpjsBggKPaCw3f-xlBWZWaQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMJYhPE64lykNkIsypBRZqO%2CEND$768*576 北京移动
 贵州卫视,http://120.76.248.139/live/bfgd/4200000101.m3u8$1920*1080 北方广电
+贵州卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnqBF03rFwPucF8ODtWxLQQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+贵州卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226497/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EII9j63eIna15eP_YmWS_IQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNAinxvJkhz1KmwEegkExhS%2CEND$1920*1080 北京移动
 海南卫视,http://120.76.248.139/live/bfgd/4200000473.m3u8$1920*1080 北方广电
+海南卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+海南卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226574/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EZOP0PLu1-XG8_Ae0lTe9HQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNODcjESMU4f6yMuMuOuQbie%2CEND$768*576 北京移动
 河北卫视,http://120.76.248.139/live/bfgd/4200000108.m3u8$1920*1080 北方广电
+河北卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227014/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErSGjhI3DMaaAASPrbQJYTg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+河北卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226507/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E9t05Tsae9v-3icTyI_M0ag%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMlFJQdvk5axp7yhMvvRXjq%2CEND$1920*1080 北京移动
 河南卫视,http://120.76.248.139/live/bfgd/4200000339.m3u8$1920*1080 北方广电
+河南卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226525/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EaNNLPigfrjqAESczXiD6Iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONjKcR3G261j9nBiwocMbn%2CEND$768*576 北京移动
 黑龙江卫视,http://120.76.248.139/live/bfgd/4200000095.m3u8$1920*1080 北方广电
+黑龙江卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+黑龙江卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEHwpSHKc5p-bHJfhpIWFig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM5Y8rTELLykZJHp-bmY2YW%2CEND$1920*1080 北京移动
 湖北卫视,http://120.76.248.139/live/bfgd/4200000102.m3u8$1920*1080 北方广电
+湖北卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226952/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EREB40lnZnCEwjRy7LZuhIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+湖北卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExfU_RR0RQok0w_xd7h22CQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPVnDV2fEBphgm3TP7hAHBx%2CEND$1920*1080 北京移动
 湖南卫视,http://120.76.248.139/live/bfgd/4200000086.m3u8$1920*1080 北方广电
+湖南卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226493/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EZZewXKQnnKZ2h4P_GwVSsw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMYCoAEKye18sB9_6jeKL3Z%2CEND$768*576 北京移动
 吉林卫视,http://120.76.248.139/live/bfgd/4200000097.m3u8$1920*1080 北方广电
+吉林卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EW5-3AVdwD5KlUpuA4mz7Cg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+吉林卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226533/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EicY_6znuOTlmMeE15TFEig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNNUZpDp9cPVsM_M_ftJRVM%2CEND$768*576 北京移动
 江苏卫视,https://025365.xyz:8082/jstv.php?id=jsws$1920*1080 江苏
 江苏卫视,http://120.76.248.139/live/bfgd/4200000085.m3u8$1920*1080 北方广电
+江苏卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0BmO6uHF7WFoTed__Xr3NQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+江苏卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EJT6eqtJpcKnNhyUS90EOgw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN1SxXwCt0S69Lq27ZMJpfR%2CEND$1920*1080 北京移动
 江西卫视,http://120.76.248.139/live/bfgd/4200000098.m3u8$1920*1080 北方广电
+江西卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ei6ZIpVizXlewg-YfGvH8dA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+江西卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPpe3gkzCutYMoqOQQZNzA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMVuW7agCgULnvgy9rhLyCH%2CEND$1920*1080 北京移动
 辽宁卫视,http://dassby.qqff.top:99/live/辽宁卫视高清/index.m3u8$1920*1080 辽宁
 辽宁卫视,http://120.76.248.139/live/bfgd/4200000058.m3u8$1920*1080 北方广电
+辽宁卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6qJH8Fd-zgCGx3P-Ce86cA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1280*720 北京移动
 辽宁卫视,http://120.76.248.139/live/bfgd/4200000141.m3u8$768*576 北方广电
 辽宁卫视,http://120.76.248.139/live/bfgd/4200000185.m3u8$768*576 北方广电
+辽宁卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226488/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0dsu8dOBmGQQO7fSrvySew%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN4l9PIxeExdzsncIMJiPZb%2CEND$768*576 北京移动
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680$1920*1080 内蒙
+内蒙古卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErN_hoRDwApMKnJqiNHvn9w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1024*576 北京移动
 内蒙古卫视,http://120.76.248.139/live/bfgd/4200000110.m3u8$768*576 北方广电
+内蒙古卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226530/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EHHMwHAFmEx4xxtZRlWhCrg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMZe-zTYLW-Yz0RcFLVr37n%2CEND$768*576 北京移动
+宁夏卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Err-CLugPnTcUinEM8JeySg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
 宁夏卫视,http://120.76.248.139/live/bfgd/4200000118.m3u8$768*576 北方广电
+宁夏卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226528/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E9-jWxE6tfiz7aO7MvbCY7Q%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMi3qn27U9rBeXpVrJ8eLy7%2CEND$768*576 北京移动
 青海卫视,http://120.76.248.139/live/bfgd/4200000111.m3u8$1920*1080 北方广电
+青海卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EacviHy_ucMT27Ymf2iLtZA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
 青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8$1280*720 青海
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8$1280*720 青海
+青海卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226529/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ege4qzvU2ax15UdL3NFQ7AQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNdiWnhjH1amCOGECUhABr9%2CEND$768*576 北京移动
 山东卫视,http://120.76.248.139/live/bfgd/4200000099.m3u8$1920*1080 北方广电
+山东卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjW26v5VaHGy1jQuIA-4EbA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+山东卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226244/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EycMz-PML_dQW8iLcNBkw7g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMYCYLC04QAM6EBli1wTuET%2CEND$1920*1080 北京移动
+山西卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227016/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESb5Qr3NTpE2ZugIroKoyTw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1024*576 北京移动
 山西卫视,http://120.76.248.139/live/bfgd/4200000109.m3u8$768*576 北方广电
+山西卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226531/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EokFa56wMKUpB1vaIjEe92A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPoj5DNJHruOghC7vAQxinJ%2CEND$768*576 北京移动
 陕西卫视,http://120.76.248.139/live/bfgd/4200000512.m3u8$1920*1080 北方广电
+陕西卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1024*576 北京移动
 陕西卫视,http://124.116.183.146:9901/tsfile/live/0136_1.m3u8$768*576 陕西
+陕西卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226532/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6sNSqmLCqLFl_AJPBXp1qA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO6b4uKEI14SNy0LDiw52LH%2CEND$768*576 北京移动
 陕西卫视,http://mtv.wuzhij.com/sxxa.php?id=sxws$720*406 陕西
 陕西卫视,http://stream.snrtv.com/sxbc-star-fnyIM1.m3u8$720*406 卫视
 深圳卫视,http://120.76.248.139/live/bfgd/4200000100.m3u8$1920*1080 北方广电
+深圳卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+深圳卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EFvxuZ6Kfg6J67sArVd0LuA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO9YxM-C8gPFvQRk47-h2ok%2CEND$1920*1080 北京移动
 四川卫视,http://120.76.248.139/live/bfgd/4200000103.m3u8$1920*1080 北方广电
+四川卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBQiz3wrGrpG0CUSRIJ-7Jg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+四川卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226523/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESzNXkz200VGe5tqCEHAJnA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOaAfRFRO21FaNkUT3wDAa9%2CEND$768*576 北京移动
 天津卫视,http://120.76.248.139/live/bfgd/4200000084.m3u8$1920*1080 北方广电
+天津卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eaf3wyULP1h575eM_4ByMDg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+天津卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ERZemtK6J9gJ5YwzKz5lxAg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNFwBXcmFDBTuNWxp8W6vXg%2CEND$1920*1080 北京移动
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws$1920*1080 jdshipin
 西藏卫视,http://120.76.248.139/live/bfgd/4200000121.m3u8$768*576 北方广电
+西藏卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EdeTB7OZ9G_VNJk5C3t96fQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$768*576 北京移动
+西藏卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226527/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EmHuqUIe0F51C4h6xZanhig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMi3qn27U9rBeXpVrJ8eLy7%2CEND$768*576 北京移动
 西藏藏语,http://php.jdshipin.com:8880/xztv.php?id=zy$1920*1080 jdshipin
+新疆卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1024*576 北京移动
 新疆卫视,http://120.76.248.139/live/bfgd/4200000150.m3u8$768*576 北方广电
+新疆卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETtoZKRqwsL9SQjr1A0iH5g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMREPnBLSH3b8pR7cnmo9am%2CEND$768*576 北京移动
 云南卫视,http://120.76.248.139/live/bfgd/4200000482.m3u8$1920*1080 北方广电
+云南卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227028/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGfQPqRNVeBjTMsZ48qu0SA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+云南卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226543/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EzQy9f4DIExLCs810r0Q6Kw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_hnHaWpTsMQwR98VJGduo%2CEND$768*576 北京移动
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$1920*1080 卫视
 浙江卫视,http://120.76.248.139/live/bfgd/4200000094.m3u8$1920*1080 北方广电
+浙江卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+浙江卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eo6BokfP3WkB3SIXSrgvRBA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNP3w4GkbU9L7iRQ8H2vgzhF%2CEND$1920*1080 北京移动
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/720p.m3u8$1280*720 卫视
 重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8$1920*1080 北方广电
+重庆卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjTXsJprEx2nE38tdvu5lhA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1280*720 北京移动
+重庆卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226518/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey-ITbF7am-eD_R60rK2QcQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWkDi37K3eowQvLymiiLyV%2CEND$768*576 北京移动
 地理,#genre#
 Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8$3840*2160 
 FTVUHD,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8$3840*2160 官网
@@ -2097,17 +2211,36 @@ LoveNature,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8$1920*1080 AKTV
 LoveNature,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8$1920*1080 AKTV
 LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$3840*2160 
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8$1280*720 61.221.215.42
-纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8$1920*1080 北方广电
+金鹰纪实,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226572/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Elk4R8S3DtBgZ5-UvxaixOQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOC1pRosd18mSFYSzjjc_dn%2CEND$1920*1080 北京移动
 金鹰纪实,http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/JYJSMPP360.m3u8$640*360 湖南
+精品纪录,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226977/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EytT16QRYWEl2rKz4kPSdcQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+精品纪录,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226977/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EytT16QRYWEl2rKz4kPSdcQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNP6fKgIMlqHtxoopdxyx9FD%2CEND$1920*1080 北京移动
+军事评论,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226985/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqRd0uU_hKSUti2u5P6u77Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+军事评论,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226985/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqRd0uU_hKSUti2u5P6u77Q%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMek1jnt4Nq78ivi_ljow-J%2CEND$1920*1080 北京移动
+农业致富,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226962/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EUhRIwwqVhPIhuesQTtJ55Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+农业致富,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226962/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EUhRIwwqVhPIhuesQTtJ55Q%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPiHUQcOP4wfqCeROJz9ZsW%2CEND$1920*1080 北京移动
 求索动物,http://120.76.248.139/live/bfgd/4200000287.m3u8$1920*1080 北方广电
 求索科学,http://120.76.248.139/live/bfgd/4200000286.m3u8$1920*1080 北方广电
 求索生活,http://120.76.248.139/live/bfgd/4200000288.m3u8$1920*1080 北方广电
+中国交通,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226891/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E5BgmhczIl26vs7ShVB3CnQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOxSgMVww8vJNVqtax9VE2p%2CEND$1920*1080 北京移动
 探索频道,http://61.221.215.25:8800/hls/1/index.m3u8$1280*720 61.221.215.26
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8$1280*720 61.221.215.37
 环球旅游,http://120.76.248.139/live/bfgd/4200000147.m3u8$768*576 北方广电
 体育,#genre#
+超级体育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226348/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETVADpDcwLMjKKWF--XtEOg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+超级体育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eg-EQHTrpbCOxNSgnFRbr4w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMNhcQPODGVtsSVKlB7CbAh%2CEND$1920*1080 北京移动
+精品体育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEZy1Vmu4k2lYOlZCsti1BQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+精品体育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEZy1Vmu4k2lYOlZCsti1BQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPTJHwSVI4a-gmo5bbrSFG8%2CEND$1920*1080 北京移动
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8$1920*1080 体育
+武搏世界,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226992/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_JDeq9wxwhvmQV8q1RcJXQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOtNmHkl_eETvF1I74cp3-l%2CEND$1920*1080 北京移动
 先锋乒羽,http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/XFPYMPP360.m3u8$640*360 湖南
+炫舞未来,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226968/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eg4-11jnFsVKreoQSmD_yXg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+炫舞未来,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226968/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eg4-11jnFsVKreoQSmD_yXg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOp7JMhF8ZY6IPPcvlHo4IM%2CEND$1920*1080 北京移动
+睛彩竞技,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226566/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ELNKCwls2CgCuSsq57Mh8ug%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+睛彩竞技,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226566/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ELNKCwls2CgCuSsq57Mh8ug%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+睛彩青少,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227000/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAWLGkc6X5Fh9eyLXH5iy4A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+睛彩青少,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227000/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAWLGkc6X5Fh9eyLXH5iy4A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPq90QuvjY2HLMKHkl1c3iz%2CEND$1920*1080 北京移动
+睛彩篮球,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226565/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EKXl4MjVH6lXYRTccqcbi4w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
 纬来体育,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8$1920*1080 AKTV
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721$1280*720 体育
 纬来体育,rtmp://f13h.mine.nu/sat/tv721$1280*720 f20h.mine.nu
@@ -2143,12 +2276,21 @@ PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8$1920*1080 AKTV
 爱奇艺,http://aktv.top/AKTV/live/aktv3/astroiqiyi/AKTV.m3u8$1920*1080 AKTV
 1905国内,http://php.jdshipin.com:8880/1905.php?id=1905dy$1920*1080 jdshipin
 1905环球,http://php.jdshipin.com:8880/1905.php?id=1905dy2$1920*1080 jdshipin
+超级电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EOKgJ-MarN4M0aStGnXjR0A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+超级电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPRR4mbRWhkCFuUCVm9THg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM4kysjLk_woYMRnu35KtBV%2CEND$1920*1080 北京移动
+动作电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226974/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBow_B3ta32lPIHmLzLPzVQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+动作电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226974/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBow_B3ta32lPIHmLzLPzVQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMek1jnt4Nq78ivi_ljow-J%2CEND$1920*1080 北京移动
+黑莓电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+黑莓电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226939/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkBVQL3MtyiM0GGQzuPjqAQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNLl1PGeFRkD4ab2EvYF17l%2CEND$1920*1080 北京移动
+明星大片,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227008/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfLBCW0GUL1k986fkoE_7hA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOT29uOgD5LPK936q4jBqFe%2CEND$1920*1080 北京移动
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv$1920*1080 辽宁
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd$1920*1080 jdshipin
 重温经典,http://mtw.so/5NPX0U$1920*1080 
+重温经典,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eg58chGORQFpH6J3zm0kF5g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPAP4UJ9bY8mj3RcXbpDq31%2CEND$1920*1080 北京移动
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv$1920*1080 安徽
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8$1920*1080 安徽
 北京影视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226486/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ed6HjPoy_r3kKhTFRhXTPzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 移动
+北京影视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EygquRbh9L0wUPRY53fsZWw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO62IynDcU1yYDL1b4Xte8T%2CEND$768*576 北京移动
 广西影视,http://116.9.204.242:9901/tsfile/live/0124_1.m3u8$1920*1080 广西
 广州影视,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8$1280*720 广东
 广州影视,https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=2b09d952702fe2c67ddad695faa4c27c&txTime=191b5db5ed0$1280*720 广东
@@ -2170,7 +2312,28 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$1280*720 61.221.215.31
 美亚电影台,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8$1920*1080 AKTV
 天映频道,http://205.185.123.236:8899/astro/tianying/tianying.m3u8$1920*1080 
 电视剧,#genre#
-淘剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2CEND&GuardEncType=2$1920*1080 移动
+未知1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226982/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E3-4ssTWVRRSna2CFQXnugg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN38RosDJrflrS3TJSXwz6L%2CEND$1920*1080 北京移动
+未知1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226982/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E3-4ssTWVRRSna2CFQXnugg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+未知2,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227008/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfLBCW0GUL1k986fkoE_7hA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+欢乐剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eopki56l9Hks18kOzEToNUQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPt5W7-RovMDpE-7B-0PhHw%2CEND$1920*1080 北京移动
+古装剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226986/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E-5s4GUWW-btT1rNpig0Z_Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+古装剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226986/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E-5s4GUWW-btT1rNpig0Z_Q%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNmc4SERkQXw0CZ2XZ6GE-l%2CEND$1920*1080 北京移动
+家庭剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EftyW3kjTIOj5n2P8RZkDxQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+家庭剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EftyW3kjTIOj5n2P8RZkDxQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNP6fKgIMlqHtxoopdxyx9FD%2CEND$1920*1080 北京移动
+军旅剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226967/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfN0xtIcVecPauWX6HCC38w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+军旅剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226967/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfN0xtIcVecPauWX6HCC38w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPmD-DlMJVFc8pYdFs2AdLd%2CEND$1920*1080 北京移动
+爱情喜剧,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226989/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ea1N_KgA8ifZhGjOaqvKIMg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+爱情喜剧,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226989/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ea1N_KgA8ifZhGjOaqvKIMg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPmD-DlMJVFc8pYdFs2AdLd%2CEND$1920*1080 北京移动
+精品大剧,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226970/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E3L0P9l_fI2y0M6HyVzY8Ag%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+精品大剧,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226970/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E3L0P9l_fI2y0M6HyVzY8Ag%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOrwx_1YghGvWRc5Ec-pSae%2CEND$1920*1080 北京移动
+潮妈辣婆,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226980/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_buXEAIzLX9DkyCQHTUDaw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+潮妈辣婆,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226980/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_buXEAIzLX9DkyCQHTUDaw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOFXEcWh_gXHVGjnfvNWYT_%2CEND$1920*1080 北京移动
+惊悚悬疑,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227013/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsZ9kjVUW6IQXTWQniX9Byg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+惊悚悬疑,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227013/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsZ9kjVUW6IQXTWQniX9Byg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNnvTk8xQtxJmPI-kx8tFWA%2CEND$1920*1080 北京移动
+中国功夫,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226988/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEWe2gbwg0iLJum2oZPyg5Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+中国功夫,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226988/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEWe2gbwg0iLJum2oZPyg5Q%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOtNmHkl_eETvF1I74cp3-l%2CEND$1920*1080 北京移动
+超级电视剧,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226979/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EVGh4wVrIL86YabiEzt0u5Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+超级电视剧,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EZhWbo0Hgl8TyYelIcJIc-A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPiHUQcOP4wfqCeROJz9ZsW%2CEND$1920*1080 北京移动
 湖南电视剧,http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/HNDSJMPP360.m3u8$640*360 湖南
 湖南电视剧,http://php.jdshipin.com:8880/iptv.php?id=hndsj$640*360 jdshipin
 湖南电视剧,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj$640*360 jdshipin
@@ -2179,10 +2342,20 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8$1280*720 61.221.215.31
 八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8$1280*720 61.221.215.28
 三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8$1280*720 61.221.215.30
 少儿,#genre#
+卡酷少儿,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227024/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjvuDD-WqVkjs3cnfSInf6A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1024*576 北京移动
+卡酷少儿,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226511/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EvqDW6DIwhMbw5DgQ-5shSg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOkWiMkxzrYuDDsDz0yj_44%2CEND$768*576 北京移动
 动漫秀场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031113$1920*1080 jdshipin
+黑莓动画,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EUc618y1E09GbQwwuOzEKaQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+黑莓动画,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EUc618y1E09GbQwwuOzEKaQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNLl1PGeFRkD4ab2EvYF17l%2CEND$1920*1080 北京移动
+金鹰卡通,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226576/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6foULWwssGxn1Rcu94IVjA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOgjgFOoBNEm4igx9gIglYQ%2CEND$768*576 北京移动
 金鹰卡通,http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/JYKTMPP360.m3u8$640*360 湖南
 嘉佳卡通,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=jjkt$854*480 辽宁
+嘉佳卡通,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226539/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQDRyt1jaDU7f52NwPN526A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOLcRNi6C1PMX5tGrYl_SiR%2CEND$768*576 北京移动
 优漫卡通,https://025365.xyz:8082/jstv.php?id=jsgj$1280*720 
+优漫卡通,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227007/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhHDWGhkwx_zJcJUYE9TAaA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1024*576 北京移动
+优漫卡通,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226932/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQEOIlrOsNFRf5iToSTnL8A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN7KLFo7CgBWKUXMPUn4WSm%2CEND$768*576 北京移动
+哈哈炫动,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227025/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7RoPnbSvRPd3KyTpQ76WpA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1024*576 北京移动
+哈哈炫动,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226931/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EwXk4-w8DP-IRvdMpjszPAA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIv8l7gjKPOVhtVnCGxj_h%2CEND$768*576 北京移动
 动漫,http://61.221.215.25:8800/hls/40/index.m3u8$1280*720 61.221.215.29
 ViuTV,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8$1920*1080 辽宁
 ViuTV,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8$1920*1080 AKTV
@@ -2190,13 +2363,39 @@ ViuTV6,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8$1920*1080 AKTV
 炫动3D,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000003000000558$1280*720 jdshipin
 i-Fun动漫,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8$1920*1080 AKTV
 综合,#genre#
+茶频道,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226548/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ec1XXmbKOEhI6pFYCxtVG9A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOD3hCDGl7mDB_HDsnRfhB2%2CEND$1920*1080 北京移动
 茶频道,http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/CPDMPP360.m3u8$640*360 湖南
+超级综艺,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EYioXJd79dXZ_L0XAyn5Oqg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+超级综艺,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ejm-KqHfTZezbm9C-325YiA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNnfpAUC20DSCXUyGpDggnK%2CEND$1920*1080 北京移动
+金牌综艺,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227004/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkcfszuSJNo6WZ8h7xrIswA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+金牌综艺,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227004/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkcfszuSJNo6WZ8h7xrIswA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWi_zfgUXV5YnB6haFF-C2%2CEND$1920*1080 北京移动
+快乐垂钓,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226549/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~RHz0NOpqUZZN1Iz6lVLkkg~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNSiF8rKF1Pn2LepKMJ2cEG%2CEND$1920*1080 北京移动
 快乐垂钓,http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/KLCDMPP360.m3u8$640*360 湖南
+精品萌宠,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226976/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EvfRMC51wpBEwf_3ooIvthw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+精品萌宠,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226976/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EvfRMC51wpBEwf_3ooIvthw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMIbVitQtzdNdR3bb3domvJ%2CEND$1920*1080 北京移动
+怡伴健康,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjNp5Bk4D1QoMTHkXgT3WLA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+怡伴健康,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjNp5Bk4D1QoMTHkXgT3WLA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPTJHwSVI4a-gmo5bbrSFG8%2CEND$1920*1080 北京移动
+财富天下,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226575/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E1_S4VwSgLmMlOxPfOS6XnQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOqSSXdhT8y3fhHgo4JQduI%2CEND$785*576 北京移动
 北京,#genre#
 4K超清,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?zoneoffset=480&servicetype=1&icpid=88888888&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~Q8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk~ExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2C119.123.69.186%2C20240802122114%2C10000100000000050000000003887500%2C162944%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266388_0%2CEND&GuardEncType=2&RTS=1729247386&from=6&ocs=2_39.135.238.65_80&popid=6&hms_devid=3771&prioritypopid=6&vqe=3$3840*2160 移动
+4K超清,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$3840*2160 北京移动
 淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?zoneoffset=480&amp;servicetype=1&amp;icpid=88888888&amp;limitflux=-1&amp;limitdur=-1&amp;tenantId=8601&amp;accountinfo=~~V2.0~XOsrWMA-UCdUl1hQSR9EKw~Q8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk~ExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2C119.123.69.186%2C20240802122114%2C10000100000000050000000003887498%2C162944%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266384_0%2CEND&amp;GuardEncType=2&amp;from=6&amp;popid=6&amp;hms_devid=3729&amp;prioritypopid=6&amp;vqe=3$1920*1080 移动
+淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND$1920*1080 北京移动
+淘剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2CEND&GuardEncType=2$1920*1080 移动
+淘剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND$1920*1080 北京移动
 淘娱乐,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2CEND&GuardEncType=2$1920*1080 移动
+淘娱乐,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND$1920*1080 北京移动
+淘BABY,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EN0sbBMpQv4sLsW5foy3YfA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND$1920*1080 北京移动
+萌宠TV,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_PpxWPtvSZRFtu_Ged_-vQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO0istnBuoA2R9ODSCqyIyS%2CEND$1920*1080 北京移动
+纪实科教,http://120.76.248.139/live/bfgd/4200000113.m3u8$1920*1080 北方广电
+纪实科教,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226434/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ejj3PtVjzl6ZzFdM-Vi1dmQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPJa61jREJv4ZfZigyrxX0U%2CEND$768*576 北京移动
+北京文艺,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWrJcgMpdGPvZavpf4dmmrQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNhmwDsUZnvQgU5E5wiGA2g%2CEND$1920*1080 北京移动
 北京新闻,https://livebjsy.chinAMCache.com/live/zb02.m3u8$1920*1080 
+北京新闻,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EncK5uEAdYwWMsf8WJWI1mQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_LSIQh_h2P54Cz-MqgJqC%2CEND$1920*1080 北京移动
+北京财经,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eh9_SEkmWeMdS1TMnIILZgg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPIiicEW7OIvk1s-X-PXHqO%2CEND$768*576 北京移动
+北京生活,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Es-PVNcPJsjr_oBdcXGT40g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWvZ0r6eMXcXJOGrCpJiq1%2CEND$768*576 北京移动
+北京国际,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EIfgL7tTUNqHAIdgvKuwj8A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPr9j5nfyiWS_jEXD6m401A%2CEND$1920*1080 北京移动
+北京体育休闲,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EeVAybrHg955d_IRT9e_uHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMLCKqkSfuGOusJwBMwlCbz%2CEND$1920*1080 北京移动
 上海,#genre#
 嘉定,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8$1280*720 上海
 崇明,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8$1920*1080 上海
@@ -2336,6 +2535,7 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8$1920*1080 AKTV
 潜山综合,http://60.171.171.101:8278/rtmp_export/video22.m3u8$1920*1080 安徽
 潜山综合,https://qsxw.gov.cn/rtmp_export/video22.m3u8$1920*1080 安徽
 福建,#genre#
+厦门卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226542/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0HuqirkTe1cAUljwazjNGw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMvSOYesmmWPPy5i3xS4Rsb%2CEND$785*576 北京移动
 厦门1,https://live1b.kxm.xmtv.cn/xm1bf/tvzb/live.m3u8$1280*720 福建
 厦门2,https://live1b.kxm.xmtv.cn/xm2bf/playlist.m3u8$1280*720 福建
 厦门2,https://live1b.kxm.xmtv.cn/xm2bf/tvzb/live.m3u8$1280*720 福建
@@ -2466,6 +2666,7 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8$1920*1080 AKTV
 黔南-2,http://tvfile.qntv.net/nmip-media/channellive/channel109066/playlist.m3u8$1920*1080 贵州
 镇远综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel9/playlist.m3u8$1920*1080 贵州
 海南,#genre#
+三沙卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eb2dn60YQRxhB5rAyOnrv0g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_hnHaWpTsMQwR98VJGduo%2CEND$768*576 北京移动
 河北,#genre#
 霸州新闻,http://hbbz.chinashadt.com:2036/live/stream:bzxw.stream/playlist.m3u8$1047*576 河北
 霸州公共,http://hbbz.chinashadt.com:2036/live/stream:bzgg.stream/playlist.m3u8$1047*576 河北
@@ -2958,6 +3159,8 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8$1920*1080 AKTV
 吉林市科教,http://61.138.128.226:19901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$768*576 吉林
 吉林市生活,http://61.138.128.226:19901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$768*576 吉林
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8$1280*720 
+延边卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1024*576 北京移动
+延边卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONS2RAhxb5u6NYaMGGM23S%2CEND$1024*576 北京移动
 延边卫视,http://120.76.248.139/live/bfgd/4200000117.m3u8$768*576 北方广电
 珲春,http://stream8.jlntv.cn/hctv/sd/live.m3u8$720*576 吉林
 江苏,#genre#
@@ -2965,17 +3168,14 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8$1920*1080 AKTV
 江苏教育,https://025365.xyz:8082/jstv.php?id=jsty$1280*720 江苏
 江苏城市,https://025365.xyz:8082/jstv.php?id=jscs$1920*1080 江苏
 江苏国际,https://025365.xyz:8082/jstv.php?id=jsjy$1280*720 江苏
-南京新闻,http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8$1280*720 江苏
-南京新闻,http://live.nbs.cn/channels/njtv/xwpdb/nbs06.m3u8$1280*720 江苏
-南京新闻,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=njxwzh$854*480 江苏
-南京科教,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8$1280*720 江苏
-南京科教,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=njkj$854*480 江苏
+南京教科,http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8$1280*720 江苏
+南京教科,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=njkj$854*480 江苏
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8$1280*720 江苏
 南京十八,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8、https://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8$1920*1080 江苏
 南京十八,http://live.nbs.cn/channels/njtv/sbpd/500k.m3u8$1920*1080 江苏
 南京十八,http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8$1920*1080 江苏
-南京十八生活,http://live.nbs.cn/channels/njtv/sbsh/nbs24.m3u8$1280*720 江苏
-南京十八生活,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=njsb$854*480 江苏
+南京十八点生活,http://live.nbs.cn/channels/njtv/sbsh/nbs24.m3u8$1280*720 江苏
+南京十八点生活,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=njsb$854*480 江苏
 南京文旅纪录,http://live.nbs.cn/channels/njtv/wljl/nbs24.m3u8$1280*720 江苏
 大丰-1,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8$1920*1080 江苏
 大丰-2,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8$1920*1080 江苏
@@ -3116,6 +3316,8 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8$1920*1080 AKTV
 同德综合,https://lived.dmqhyadmin.com/tdtv/playlist.m3u8$1920*1080 青海
 兴海综合,http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8$1920*1080 青海
 山东,#genre#
+山东教育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227022/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EMkWp5fwJWRSC2qPwffoOzQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1024*576 北京移动
+山东教育,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226526/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEtk94qghXphElKOQlUC-Yw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOpyxkKQ6N6FjQz-LrJwo0o%2CEND$785*576 北京移动
 山东教育,http://120.76.248.139/live/bfgd/4200000112.m3u8$768*576 北方广电
 东营综合,rtmp://stream.hhek.cn:9936/live/xwzh_sd$853*480 山东
 东营综合,http://stream.hhek.cn/xwzh/sd/live.m3u8$853*480 山东
@@ -3225,6 +3427,8 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8$1920*1080 AKTV
 榆林综合,https://hplayer1.juyun.tv/camera/140908134.m3u8$1920*1080 官方
 榆林公共,https://hplayer1.juyun.tv/camera/140909190.m3u8$1920*1080 官方
 四川,#genre#
+康巴卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1024*576 北京移动
+康巴卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPtFfVFX0AVycM8b4Xmbcl4%2CEND$1024*576 北京移动
 重庆汽摩,http://120.76.248.139/live/bfgd/4200000168.m3u8$1024*576 北方广电
 重庆时尚购物,https://tvlive.ugoshop.com/ugotvlive/ssgotv.m3u8?auth_key=2312509421-0-0-6642ec3645caa943da6855a9ef7e2129$853*480 购物
 巴中综合,http://ocj2.kksmg.com/ocj1/ocj1.m3u8$1280*720 四川
@@ -3320,6 +3524,7 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8$1920*1080 AKTV
 日喀则藏语,https://consolestream.rkzrm.cn:20323/3.m3u8$640*360 西藏
 新疆,#genre#
 兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8$1920*1080 
+兵团卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226541/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESv-rH0nF41q6pxKZKeRnNA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN-56c_rnHTXQA4R-D0Dlau%2CEND$785*576 北京移动
 兵团卫视,http://120.76.248.139/live/bfgd/4200000124.m3u8$768*576 北方广电
 伊犁电视1,http://110.153.180.106:55555/out_4/index.m3u8$1920*1080 新疆
 伊犁电视2,http://110.153.180.106:55555/out_2/index.m3u8$1920*1080 新疆
@@ -3380,11 +3585,11 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8$1920*1080 AKTV
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/720p.m3u8$1280*720 浙江
 浙江好易购,https://ali-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8$1920*1080 浙江
 浙江好易购,https://ali-m-l.cztv.com/channels/lantian/channel011/720p.m3u8$1280*720 浙江
-绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8$1280*720 浙江
-绍兴柯桥新闻,https://play-a2.quklive.com/live/1640945211435051.m3u8$1280*720 浙江
-绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8$1280*720 浙江
 绍兴新闻,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8$1280*720 浙江
 绍兴新闻,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8$720*576 浙江
+绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8$1280*720 浙江
+绍兴文化影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8$1280*720 浙江
+绍兴柯桥新闻,https://play-a2.quklive.com/live/1640945211435051.m3u8$1280*720 浙江
 玉环新闻,https://livezzutv.chinAMCache.com/live/zb01.m3u8$1920*1080 浙江
 YY,#genre#
 斗鱼,#genre#
@@ -3519,13 +3724,13 @@ YY,#genre#
 新疆天山天池,http://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8?contentid=2820180516001$1920*1080 
 熊猫频道0,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=xmpd$1280*720 景区
 熊猫频道1,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=xm1$854*480 景区
-熊猫频道10,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=xm10$854*480 景区
 熊猫频道2,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=xm2$854*480 景区
 熊猫频道3,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=xm3$854*480 景区
 熊猫频道4,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=xm4$854*480 景区
 熊猫频道6,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=xm6$854*480 景区
 熊猫频道7,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=xm7$854*480 景区
 熊猫频道9,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=xm9$854*480 景区
+熊猫频道10,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=xm10$854*480 景区
 雪乡大石碑,https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8$1920*1080 景区
 雪乡梦幻家园,https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8$1920*1080 景区
 邕城,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=yc$1280*720 景区
@@ -3563,13 +3768,29 @@ TrtWorld,http://61.221.215.25:8800/hls/0/index.m3u8$1280*720 61.221.215.25
 半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8$1280*720 国际
 游戏,#genre#
 哒啵电竞,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000006000032327$1920*1080 jdshipin
+哒啵电竞,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226889/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EyKHPEcCpKH4LmXqAQnvIbg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+哒啵电竞,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226889/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EyKHPEcCpKH4LmXqAQnvIbg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMYcOhS5CrHLe_XOvI-UQEa%2CEND$1920*1080 北京移动
+哒啵赛事,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226938/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErjVvYM0ZqthE-XIiqeoM2g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+哒啵赛事,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226938/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErjVvYM0ZqthE-XIiqeoM2g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNLl1PGeFRkD4ab2EvYF17l%2CEND$1920*1080 北京移动
 游戏风云,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031114$1920*1080 jdshipin
 游戏风云,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=yxfy$1280*720 游戏
 掼蛋精英赛,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=gdjys$1280*720 游戏
 和平精英赛事,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=hpjxss$1280*720 游戏
 购物,#genre#
+快乐购,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227032/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6KOfSXtMZyt4SBfaYJNrxA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
 快乐购,http://phonetx.qing.mgtv.com/nn_live/nn_x64/0.0&/KLGMPP360.m3u8$640*360 湖南
+优购物,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226386/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EM87pGmpUFywKpSY4lOHrFQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+优购物,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226971/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7-81a6Uw5wuXgzjImTJdIg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+优购物,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E4qx6LIAaTCBQ7eh1B37enQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+优购物,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226344/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eox74V0m2rGUsyoy5A8iEcw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
 优购物,https://tvlive.ugoshop.com/ugotvlive/ugotv01.m3u8?auth_key=2312509421-0-0-f8f7e886fe98ee0a0c01458710bf26d3$853*480 地方
+风尚购物,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226345/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E-GNr_ncTz5EPhq3qvFvk0Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+央广购物,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227001/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX1FjruLJHCK_AUQtyT2cVw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+央广购物,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226996/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey_PNZmequ7u7FOxWDCAaLA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+央广购物,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226993/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EB-SX9XhyWukO8tjFAsqmXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920*1080 北京移动
+南京新闻,http://live.nbs.cn/channels/njtv/xwzh/nbs06.m3u8$1280*720 江苏
+南京新闻,http://live.nbs.cn/channels/njtv/xwpdb/nbs06.m3u8$1280*720 江苏
+南京新闻,http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=njxwzh$854*480 江苏
 购物,#genre#
 好易购,http://A/ku9/js/zhejiang.js?id=zjhyg
 YY,#genre#
