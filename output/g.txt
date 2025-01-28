@@ -21,6 +21,7 @@ CCTV-1综合,http://221.193.168.97:9901/tsfile/live/0001_1.m3u8?key=txiptv&playl
 CCTV-1综合,http://221.193.168.2:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-1综合,http://171.124.183.238:8899/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-1综合,http://221.193.168.87:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
+CCTV-1综合,http://A/ku9/js/ysptp.js?id=CCTV1$1080ysptp.js
 CCTV-1综合,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=reallive-cctv1&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$720hostsY
 CCTV-1综合,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=reallive-hdcctv1&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$720hostsY
 CCTV-1综合,http://A/ku9/js/hosts.js?channel-id=wasusyt&Contentid=5068253659616166748&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$720hostsW
@@ -43,6 +44,7 @@ CCTV-2财经,http://219.159.194.210:8181/tsfile/live/1098_1.m3u8?key=txiptv&play
 CCTV-2财经,http://222.218.159.203:8181/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-2财经,http://119.125.134.235:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-2财经,http://171.124.183.238:8899/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
+CCTV-2财经,http://A/ku9/js/ysptp.js?id=CCTV2$1080ysptp.js
 CCTV-2财经,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=5353323539453949720&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$720hostsY
 CCTV-2财经,http://A/ku9/js/hosts.js?channel-id=wasusyt&Contentid=8878432746825677699&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$720hostsW
 CCTV-2财经,http://脚本只支持本地/ku9/js/ku9-Player.js?sid=iptv&tid=01&id=2&key=酷9JS交流群424765458$720Player
@@ -61,6 +63,7 @@ CCTV-3综艺,http://219.159.194.210:8181/tsfile/live/1016_1.m3u8?key=txiptv&play
 CCTV-3综艺,http://222.218.159.203:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-3综艺,http://219.159.194.238:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-3综艺,http://119.125.134.235:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
+CCTV-3综艺,http://A/ku9/js/ysptp.js?id=CCTV3$1080ysptp.js
 CCTV-3综艺,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=8378175926191110263&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$720hostsY
 CCTV-3综艺,http://脚本只支持本地/ku9/js/ku9-Player.js?sid=iptv&tid=01&id=3&key=酷9JS交流群424765458$720Player
 CCTV-3综艺,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=cctv3$720Smart
@@ -78,6 +81,7 @@ CCTV-4中文国际,http://219.159.194.210:8181/tsfile/live/1099_1.m3u8?key=txipt
 CCTV-4中文国际,http://222.218.159.203:8181/tsfile/live/1099_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-4中文国际,http://219.159.194.238:8181/tsfile/live/1099_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-4中文国际,http://171.124.183.238:8899/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
+CCTV-4中文国际,http://A/ku9/js/ysptp.js?id=CCTV4$1080ysptp.js
 CCTV-4中文国际,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=8183388942203045169&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$720hostsY
 CCTV-4中文国际,http://脚本只支持本地/ku9/js/ku9-Player.js?sid=iptv&tid=01&id=4&key=酷9JS交流群424765458$720Player
 CCTV-4中文国际,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=cctv4$720Smart
@@ -109,6 +113,7 @@ CCTV-5体育,http://219.159.194.210:8181/tsfile/live/0005_1.m3u8?key=txiptv&play
 CCTV-5体育,http://222.218.159.203:8181/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-5体育,http://219.159.194.210:8181/tsfile/live/faacts/1130_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-5体育,http://171.124.183.237:8899/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
+CCTV-5体育,http://A/ku9/js/ysptp.js?id=CCTV5$1080ysptp.js
 CCTV-5体育,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=reallive-cctv5&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$720hostsY
 CCTV-5体育,http://A/ku9/js/hosts.js?channel-id=wasusyt&Contentid=4867251683694877276&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$720hostsW
 CCTV-5体育,http://A/ku9/js/hosts.js?channel-id=wasusyt&Contentid=7680777599813046442&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$720hostsW
@@ -129,6 +134,7 @@ CCTV-5+体育赛事,http://113.64.94.135:9901/tsfile/live/1020_1.m3u8?key=txiptv
 CCTV-5+体育赛事,http://222.218.159.203:8181/tsfile/live/faacts/1100_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-5+体育赛事,http://171.124.183.238:8899/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-5+体育赛事,http://171.124.183.237:8899/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
+CCTV-5+体育赛事,http://A/ku9/js/ysptp.js?id=CCTV5Plus$1080ysptp.js
 CCTV-5+体育赛事,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=reallive-cctv5plus&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$720hostsY
 CCTV-5+体育赛事,http://A/ku9/js/hosts.js?channel-id=hnbblive&Contentid=5350361928876847638&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$720hostsH
 CCTV-5+体育赛事,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=cctv5plus$720Smart
@@ -167,6 +173,7 @@ CCTV-7国防军事,http://171.124.183.237:8899/tsfile/live/0007_1.m3u8?key=txipt
 CCTV-7国防军事,http://222.218.159.203:8181/tsfile/live/faacts/1124_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-7国防军事,http://119.125.134.235:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-7国防军事,http://171.124.183.238:8899/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
+CCTV-7国防军事,http://A/ku9/js/ysptp.js?id=CCTV7$1080ysptp.js
 CCTV-7国防军事,http://A/ku9/js/hosts.js?channel-id=hnbblive&Contentid=7787764357983924496&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$720hostsH
 CCTV-7国防军事,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=7050628689018054317&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$720hostsY
 CCTV-7国防军事,http://脚本只支持本地/ku9/js/ku9-Player.js?sid=iptv&tid=01&id=8&key=酷9JS交流群424765458$720Player
@@ -186,6 +193,7 @@ CCTV-8电视剧,http://219.159.194.238:8181/tsfile/live/1074_1.m3u8?key=txiptv&p
 CCTV-8电视剧,http://222.218.159.203:8181/tsfile/live/1074_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-8电视剧,http://171.124.183.238:8899/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-8电视剧,http://119.125.134.235:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
+CCTV-8电视剧,http://A/ku9/js/ysptp.js?id=CCTV8$1080ysptp.js
 CCTV-8电视剧,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=8871488051501921127&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$720hostsY
 CCTV-8电视剧,http://A/ku9/js/hosts.js?channel-id=wasusyt&Contentid=8967744667154419073&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$720hostsW
 CCTV-8电视剧,http://脚本只支持本地/ku9/js/ku9-Player.js?sid=iptv&tid=01&id=9&key=酷9JS交流群424765458$720Player
@@ -206,6 +214,7 @@ CCTV-9纪录,http://219.159.194.210:8181/tsfile/live/1022_1.m3u8?key=txiptv&play
 CCTV-9纪录,http://171.124.183.238:8899/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-9纪录,http://171.124.183.237:8899/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-9纪录,http://119.125.134.235:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
+CCTV-9纪录,http://A/ku9/js/ysptp.js?id=CCTV9$1080ysptp.js
 CCTV-9纪录,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=6275371742726901431&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$720hostsY
 CCTV-9纪录,http://A/ku9/js/hosts.js?channel-id=wasusyt&Contentid=6350727550077620987&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$720hostsW
 CCTV-9纪录,http://脚本只支持本地/ku9/js/ku9-Player.js?sid=iptv&tid=01&id=10&key=酷9JS交流群424765458$720Player
@@ -227,6 +236,7 @@ CCTV-10科教,http://219.159.194.238:8181/tsfile/live/1101_1.m3u8?key=txiptv&pla
 CCTV-10科教,http://113.64.94.135:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&down=1$1080小飞
 CCTV-10科教,http://171.124.183.238:8899/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-10科教,http://119.125.134.235:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
+CCTV-10科教,http://A/ku9/js/ysptp.js?id=CCTV10$1080ysptp.js
 CCTV-10科教,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=7019587760656900133&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$720hostsY
 CCTV-10科教,http://脚本只支持本地/ku9/js/ku9-Player.js?sid=iptv&tid=01&id=11&key=酷9JS交流群424765458$720Player
 CCTV-10科教,http://A/ku9/js/hosts.js?channel-id=hnbblive&Contentid=6099129499930970995&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$576hostsH
@@ -240,6 +250,7 @@ CCTV-11戏曲,http://120.76.248.139/live/bfgd/4200000130.m3u8$1080北方广电
 CCTV-11戏曲,http://106.46.144.155:10443/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-11戏曲,http://113.64.94.135:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&down=1$1080小飞
 CCTV-11戏曲,http://119.125.134.235:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
+CCTV-11戏曲,http://A/ku9/js/ysptp.js?id=CCTV11$1080ysptp.js
 CCTV-11戏曲,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=6351457414282570521&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$720hostsY
 CCTV-11戏曲,http://脚本只支持本地/ku9/js/ku9-Player.js?sid=iptv&tid=01&id=12&key=酷9JS交流群424765458$720Player
 CCTV-11戏曲,http://A/ku9/js/hosts.js?channel-id=hnbblive&Contentid=5028333576671744004&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$576hostsH
@@ -260,6 +271,7 @@ CCTV-12社会与法,http://222.218.159.203:8181/tsfile/live/faacts/1132_1.m3u8?k
 CCTV-12社会与法,http://219.159.194.210:8181/tsfile/live/faacts/1132_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-12社会与法,http://171.124.183.237:8899/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-12社会与法,http://171.124.183.238:8899/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
+CCTV-12社会与法,http://A/ku9/js/ysptp.js?id=CCTV12$1080ysptp.js
 CCTV-12社会与法,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=5325631075193490169&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$720hostsY
 CCTV-12社会与法,http://脚本只支持本地/ku9/js/ku9-Player.js?sid=iptv&tid=01&id=13&key=酷9JS交流群424765458$720Player
 CCTV-12社会与法,http://A/ku9/js/hosts.js?channel-id=hnbblive&Contentid=5789397805573190782&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$576hostsH
@@ -277,6 +289,7 @@ CCTV-13新闻,http://113.64.94.135:9901/tsfile/live/1028_1.m3u8?key=txiptv&playl
 CCTV-13新闻,http://221.193.168.97:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-13新闻,http://221.193.168.87:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-13新闻,http://119.125.134.235:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
+CCTV-13新闻,http://A/ku9/js/ysptp.js?id=CCTV13$1080ysptp.js
 CCTV-13新闻,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=6918130250570453526&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$720hostsY
 CCTV-13新闻,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=cctv13$720Smart
 CCTV-13新闻,http://A/ku9/js/hosts.js?channel-id=hnbblive&Contentid=8144735820797832112&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$576hostsH
@@ -293,6 +306,7 @@ CCTV-14少儿,http://106.46.144.155:10443/tsfile/live/0014_1.m3u8?key=txiptv&pla
 CCTV-14少儿,http://113.64.94.135:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&down=1$1080小飞
 CCTV-14少儿,http://171.124.183.237:8899/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-14少儿,http://171.124.183.238:8899/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
+CCTV-14少儿,http://A/ku9/js/ysptp.js?id=CCTV14$1080ysptp.js
 CCTV-14少儿,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=8203666801302077036&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$720hostsY
 CCTV-14少儿,http://A/ku9/js/hosts.js?channel-id=wasusyt&Contentid=6113730085955692619&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$720hostsW
 CCTV-14少儿,http://脚本只支持本地/ku9/js/ku9-Player.js?sid=iptv&tid=01&id=15&key=酷9JS交流群424765458$720Player
@@ -309,6 +323,7 @@ CCTV-15音乐,http://222.218.159.203:8181/tsfile/live/1050_1.m3u8?key=txiptv&pla
 CCTV-15音乐,http://219.159.194.238:8181/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-15音乐,http://219.159.194.210:8181/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-15音乐,http://119.125.134.235:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
+CCTV-15音乐,http://A/ku9/js/ysptp.js?id=CCTV15$1080ysptp.js
 CCTV-15音乐,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=4832596595465032187&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$720hostsY
 CCTV-15音乐,http://脚本只支持本地/ku9/js/ku9-Player.js?sid=iptv&tid=01&id=16&key=酷9JS交流群424765458$720Player
 CCTV-15音乐,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=cctv15$720Smart
@@ -321,6 +336,7 @@ CCTV-16奥林匹克,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000
 CCTV-16奥林匹克,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000006000233001&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$1080hostsY
 CCTV-16奥林匹克,http://脚本只支持本地/ku9/js/ku9-Player.js?sid=iptv&tid=01&id=17&key=酷9JS交流群424765458$1080Player
 CCTV-16奥林匹克,http://脚本只支持本地/ku9/js/ku9-Player.js?sid=iptv&tid=06&id=7&key=酷9JS交流群424765458$1080四季
+CCTV-16奥林匹克,http://A/ku9/js/ysptp.js?id=CCTV16$1080ysptp.js
 CCTV-17农业农村,http://A/ku9/js/bestv.js?id=cctv17hd8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$1080bestv.js
 CCTV-17农业农村,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000006000268004&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$1080hostsY
 CCTV-17农业农村,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000011000288014&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$1080hostsB
@@ -333,7 +349,10 @@ CCTV-17农业农村,http://219.159.194.238:8181/tsfile/live/1115_1.m3u8?key=txip
 CCTV-17农业农村,http://219.159.194.210:8181/tsfile/live/1115_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-17农业农村,http://222.218.159.203:8181/tsfile/live/1115_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-17农业农村,http://119.125.134.235:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
+CCTV-17农业农村,http://A/ku9/js/ysptp.js?id=CCTV17$1080ysptp.js
 CCTV-4K,http://A/ku9/js/bestv.js?id=cctv4k/15000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$2160bestv.js
+CCTV-4K,http://A/ku9/js/ysptp.js?id=CCTV4K超高清$2160ysptp.js
+CCTV-8K,http://A/ku9/js/ysptp.js?id=CCTV8K$2160ysptp.js
 CCTV-世界地理,http://106.46.144.155:10443/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-世界地理,http://119.125.134.235:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0$1080小飞
 CCTV-世界地理,http://120.76.248.139/live/bfgd/4200000177.m3u8$576北方广电
@@ -381,18 +400,24 @@ CETV4,http://A/ku9/js/hosts.js?channel-id=wasusyt&Contentid=6000000005000042312&
 中央新影老故事,http://120.76.248.139/live/bfgd/4200000166.m3u8$576北方广电
 中央新影发现之旅,http://120.76.248.139/live/bfgd/4200000151.m3u8$576北方广电
 CGTN,http://A/ku9/js/hosts.js?channel-id=hnbblive&Contentid=7745129417417101820&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$1080hostsH
+CGTN,http://A/ku9/js/ysptp.js?id=CGTN$1080ysptp.js
 CGTN,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=CGTN$720Smart
 CGTN,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000002000009569&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$576hostsY
 CGTN,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=4810873738577663591&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$576hostsB
 CGTN,http://120.76.248.139/live/bfgd/4200000134.m3u8$576北方广电
 CGTN纪录,http://A/ku9/js/hosts.js?channel-id=hnbblive&Contentid=7114647837765104058&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$1080hostsH
+CGTN纪录,http://A/ku9/js/ysptp.js?id=CGTN记录$1080ysptp.js
 CGTN纪录,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=8428799834696888424&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$576hostsY
+CGTN俄语,http://A/ku9/js/ysptp.js?id=CGTN俄语$1080ysptp.js
 CGTN俄语,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000006000280004&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$576hostsY
 CGTN俄语,http://120.76.248.139/live/bfgd/4200000309.m3u8$576北方广电
+CGTN法语,http://A/ku9/js/ysptp.js?id=CGTN法语$1080ysptp.js
 CGTN法语,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000006000280003&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$576hostsY
 CGTN法语,http://120.76.248.139/live/bfgd/4200000307.m3u8$576北方广电
+CGTN西班牙语,http://A/ku9/js/ysptp.js?id=CGTN西班牙语$1080ysptp.js
 CGTN西班牙语,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000006000280002&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$576hostsY
 CGTN西班牙语,http://120.76.248.139/live/bfgd/4200000306.m3u8$576北方广电
+CGTN阿拉伯语,http://A/ku9/js/ysptp.js?id=CGTN阿拉伯语$1080ysptp.js
 CGTN阿拉伯语,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000006000280001&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.189$576hostsY
 CGTN阿拉伯语,http://120.76.248.139/live/bfgd/4200000308.m3u8$576北方广电
 卫视,#genre#
