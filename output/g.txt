@@ -1611,7 +1611,6 @@ i-Fun动漫,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8$1080AKTV
 金色学堂,http://180.212.94.201:1111/rtp/239.5.0.96:5000$576天津电信
 名师公开课,http://A/ku9/js/hosts.js?channel-id=wasusyt&Contentid=6000000003000023702&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.188$720hostsW
 北京,#genre#
-北京新闻,https://livebjsy.chinAMCache.com/live/zb02.m3u8$1080
 北京新闻,http://A/ku9/js/btv.js?id=bjxw$1080btv.js
 北京新闻,http://115.171.216.85:8888/rtp/225.1.8.83:8000$1080北京电信
 北京新闻,http://114.254.91.239:2222/rtp/239.3.1.159:8000$1080北京联通
@@ -1731,6 +1730,7 @@ i-Fun动漫,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8$1080AKTV
 房山FTV,http://114.254.91.239:2222/rtp/239.3.1.96:8001$1080北京联通
 密云TV,http://115.171.216.85:8888/rtp/225.1.8.75:8002$1080北京电信
 密云TV,http://114.254.91.239:2222/rtp/239.3.1.154:8001$1080北京联通
+顺义综合频道,https://livebjsy.chinAMCache.com/live/zb02.m3u8$1080
 通州融媒,http://114.254.91.239:2222/rtp/239.3.1.221:8001$1080北京联通
 延庆TV,http://114.254.91.239:2222/rtp/239.3.1.187:8001$576北京联通
 上海,#genre#
