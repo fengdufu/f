@@ -792,6 +792,7 @@ CGTN阿拉伯语,http://A/ku9/js/Migu.js?id=cgtna$480Migu.js
 江苏卫视,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000010000018509&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.188$1080hostsB
 江苏卫视,http://120.76.248.139/live/bfgd/4200000085.m3u8$1080北方广电
 江苏卫视,https://025365.xyz:8082/jstv.php?id=jsws$1080江苏
+江苏卫视,http://A/ku9/js/jiangsulizhi.js?id=jsws$1080jiangsulizhi.js
 江苏卫视,http://A/ku9/js/Migu.js?id=jsws$1080Migu.js
 江苏卫视,http://115.171.216.85:8888/rtp/225.1.8.44:8028$1080北京电信
 江苏卫视,http://123.113.180.31:8000/rtp/239.3.1.135:8028$1080北京联通
@@ -1443,6 +1444,7 @@ Movie,http://A/ku9/js/UA=1cb69cefb92a4528.js?id=https://itv.myxcwh.com:20480/086
 江苏影视,https://025365.xyz:8082/jstv.php?id=jsys$720江苏
 江苏影视,https://025365.xyz:8082/jstv.php?id=hxgw$720江苏
 江苏影视,https://025365.xyz:8082/jstv.php?id=jsgg$720江苏
+江苏影视,http://A/ku9/js/jiangsulizhi.js?id=jsys$720jiangsulizhi.js
 江苏影视,http://A/ku9/js/Migu.js?id=jsys$480Migu.js
 全球大片,http://A/ku9/js/bestv.js?id=qqdp8m/8000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$1080bestv.js
 全球大片,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000011000288009&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.188$1080hostsB
@@ -1690,6 +1692,7 @@ HBO鼎级剧场,http://A/ku9/js/ku9-smart.js?ip=50.7.234.10:8278&id=hbohd_twn$10
 嘉佳卡通,http://A/ku9/js/Migu.js?id=jjkt$480Migu.js
 优漫卡通,http://A/ku9/js/UA=1cb69cefb92a4528.js?id=https://itv.myxcwh.com:20480/086/320000/00000/00A/?id=119$1080ITV
 优漫卡通,https://025365.xyz:8082/jstv.php?id=jsgj$720
+优漫卡通,http://A/ku9/js/jiangsulizhi.js?id=ymkt$720jiangsulizhi.js
 优漫卡通,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000002000010063&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.188$576hostsY
 优漫卡通,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=5574405527570022182&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.188$576hostsY
 优漫卡通,http://A/ku9/js/hosts.js?channel-id=wasusyt&Contentid=6000000003000030492&key=脚本免费，请勿收费商用！交流群424765458&ip=39.136.38.188$576hostsW
@@ -3441,17 +3444,23 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8$1080AKTV
 延边卫视,http://120.76.248.139/live/bfgd/4200000117.m3u8$576北方广电
 珲春,http://stream8.jlntv.cn/hctv/sd/live.m3u8$576吉林
 江苏,#genre#
+江苏新闻,http://A/ku9/js/jiangsulizhi.js?id=jsxw$1080jiangsulizhi.js
 江苏新闻,http://A/ku9/js/UA=1cb69cefb92a4528.js?id=https://itv.myxcwh.com:20480/086/320000/00000/00A/?id=120$1080ITV
 江苏综艺,https://025365.xyz:8082/jstv.php?id=jszy$1080江苏
+江苏综艺,http://A/ku9/js/jiangsulizhi.js?id=jszy$1080jiangsulizhi.js
 江苏综艺,http://A/ku9/js/UA=1cb69cefb92a4528.js?id=https://itv.myxcwh.com:20480/086/320000/00000/00A/?id=108$1080ITV
 江苏教育,http://A/ku9/js/UA=1cb69cefb92a4528.js?id=https://itv.myxcwh.com:20480/086/320000/00000/00A/?id=122$1080ITV
 江苏教育,https://025365.xyz:8082/jstv.php?id=jsty$720江苏
+江苏教育,http://A/ku9/js/jiangsulizhi.js?id=jsjy$720jiangsulizhi.js
 江苏城市,https://025365.xyz:8082/jstv.php?id=jscs$1080江苏
+江苏城市,http://A/ku9/js/jiangsulizhi.js?id=jscs$1080jiangsulizhi.js
 江苏城市,http://A/ku9/js/UA=1cb69cefb92a4528.js?id=https://itv.myxcwh.com:20480/086/320000/00000/00A/?id=107$1080ITV
 江苏城市,http://A/ku9/js/Migu.js?id=jscs$480Migu.js
 江苏国际,https://025365.xyz:8082/jstv.php?id=jsjy$720江苏
+江苏国际,http://A/ku9/js/jiangsulizhi.js?id=jsgj$720jiangsulizhi.js
 江苏国际,http://A/ku9/js/Migu.js?id=jsgj$480Migu.js
 江苏体育休闲,http://A/ku9/js/UA=1cb69cefb92a4528.js?id=https://itv.myxcwh.com:20480/086/320000/00000/00A/?id=117$1080ITV
+江苏体育休闲,http://A/ku9/js/jiangsulizhi.js?id=jsty$720jiangsulizhi.js
 苏州1新闻综合,vjms://csztv.2500sz.com:8500:3502/live/cid=1|c01&usep2p=1$540官网
 苏州2社会经济,vjms://csztv.2500sz.com:8500:3502/live/cid=2|c02&usep2p=1$540官网
 苏州3文化生活,vjms://csztv.2500sz.com:8500:3502/live/cid=3|c03&usep2p=1$540官网
