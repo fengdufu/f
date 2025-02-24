@@ -9,8 +9,8 @@ CCTV-1综合,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=10000000010
 CCTV-1综合,http://A/ku9/js/hosts.js?channel-id=hnbblive&Contentid=2000000002000000052&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsH1080
 CCTV-1综合,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000001000004953&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsB1080
 CCTV-1综合,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000010000030810&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsB1080
+CCTV-1综合,http://A/ku9/js/xxtp.js?id=CCTV1&warn=脚本免费请勿商用$xxtp.js1080
 CCTV-1综合,http://脚本只支持本地/ku9/js/ku9-Player.js?sid=IPTV&tid=01&id=1&key=酷9JS交流群424765458$Player1080
-CCTV-1综合,http://A/ku9/js/ysptp.js?id=CCTV1$ysptp.js1080
 CCTV-1综合,http://AAAA/PLTV/ku9/js/Migu.js?id=cctv1$Migu.js1080
 CCTV-1综合,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221226016$hlj.js1080
 CCTV-1综合,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221226559$hlj.js1080
@@ -138,7 +138,7 @@ CCTV-2财经,http://A/ku9/js/hosts.js?channel-id=wasusyt&Contentid=6000000001000
 CCTV-2财经,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000005000265002&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
 CCTV-2财经,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000001000012442&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
 CCTV-2财经,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000005000031113&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsB1080
-CCTV-2财经,http://A/ku9/js/ysptp.js?id=CCTV2$ysptp.js1080
+CCTV-2财经,http://A/ku9/js/xxtp.js?id=CCTV2&warn=脚本免费请勿商用$xxtp.js1080
 CCTV-2财经,http://AAAA/PLTV/ku9/js/Migu.js?id=cctv2$Migu.js1080
 CCTV-2财经,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221225588$hlj.js1080
 CCTV-2财经,http://A/ku9/js/gctv.js?id=cctv2&key=酷9JS交流群424765458,请勿商用!$gctv.js1080
@@ -175,7 +175,7 @@ CCTV-3综艺,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=10000000050
 CCTV-3综艺,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000011000265003&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsB1080
 CCTV-3综艺,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000001000011218&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
 CCTV-3综艺,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000002000020548&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsB1080
-CCTV-3综艺,http://A/ku9/js/ysptp.js?id=CCTV3$ysptp.js1080
+CCTV-3综艺,http://A/ku9/js/xxtp.js?id=CCTV3&warn=脚本免费请勿商用$xxtp.js1080
 CCTV-3综艺,http://AAAA/PLTV/ku9/js/Migu.js?id=cctv3$Migu.js1080
 CCTV-3综艺,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221226021$hlj.js1080
 CCTV-3综艺,http://A/ku9/js/gctv.js?id=cctv3&key=酷9JS交流群424765458,请勿商用!$gctv.js1080
@@ -207,7 +207,7 @@ CCTV-4中文国际,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=10000
 CCTV-4中文国际,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000011000265004&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsB1080
 CCTV-4中文国际,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000002000031664&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
 CCTV-4中文国际,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000005000030093&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsB1080
-CCTV-4中文国际,http://A/ku9/js/ysptp.js?id=CCTV4$ysptp.js1080
+CCTV-4中文国际,http://A/ku9/js/xxtp.js?id=CCTV4&warn=脚本免费请勿商用$xxtp.js1080
 CCTV-4中文国际,http://AAAA/PLTV/ku9/js/Migu.js?id=cctv4$Migu.js1080
 CCTV-4中文国际,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221226428$hlj.js1080
 CCTV-4中文国际,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221226007$hlj.js1080
@@ -258,9 +258,9 @@ CCTV-5体育,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=50000000110002
 CCTV-5体育,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000001000004794&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
 CCTV-5体育,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000010000016619&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsB1080
 CCTV-5体育,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000005000025222&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
+CCTV-5体育,http://A/ku9/js/xxtp.js?id=CCTV5&warn=脚本免费请勿商用$xxtp.js1080
 CCTV-5体育,http://脚本只支持本地/ku9/js/ku9-Player.js?sid=IPTV&tid=01&id=5&key=酷9JS交流群424765458$Player1080
 CCTV-5体育,http://脚本只支持本地/ku9/js/ku9-Player.js?sid=IPTV&tid=06&id=1&key=酷9JS交流群424765458$四季1080
-CCTV-5体育,http://A/ku9/js/ysptp.js?id=CCTV5$ysptp.js1080
 CCTV-5体育,http://AAAA/PLTV/ku9/js/Migu.js?id=cctv5$Migu.js1080
 CCTV-5体育,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221226019$hlj.js1080
 CCTV-5体育,http://A/ku9/js/gctv.js?id=cctv5&key=酷9JS交流群424765458,请勿商用!$gctv.js1080
@@ -298,9 +298,9 @@ CCTV-5+体育赛事,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000
 CCTV-5+体育赛事,http://A/ku9/js/hosts.js?channel-id=wasusyt&Contentid=6000000001000015875&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsW1080
 CCTV-5+体育赛事,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000005000265016&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
 CCTV-5+体育赛事,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000001000020505&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
+CCTV-5+体育赛事,http://A/ku9/js/xxtp.js?id=CCTV5Plus&warn=脚本免费请勿商用$xxtp.js1080
 CCTV-5+体育赛事,http://脚本只支持本地/ku9/js/ku9-Player.js?sid=IPTV&tid=01&id=6&key=酷9JS交流群424765458$Player1080
 CCTV-5+体育赛事,http://脚本只支持本地/ku9/js/ku9-Player.js?sid=IPTV&tid=06&id=2&key=酷9JS交流群424765458$四季1080
-CCTV-5+体育赛事,http://A/ku9/js/ysptp.js?id=CCTV5Plus$ysptp.js1080
 CCTV-5+体育赛事,http://AAAA/PLTV/ku9/js/Migu.js?id=cctv5p$Migu.js1080
 CCTV-5+体育赛事,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221225603$hlj.js1080
 CCTV-5+体育赛事,http://goo.bkpcp.top/mg/cctv5p$咪咕1080
@@ -355,7 +355,7 @@ CCTV-7国防军事,http://A/ku9/js/hosts.js?channel-id=wasusyt&Contentid=6000000
 CCTV-7国防军事,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000005000265007&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
 CCTV-7国防军事,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000001000017218&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
 CCTV-7国防军事,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000005000026715&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsB1080
-CCTV-7国防军事,http://A/ku9/js/ysptp.js?id=CCTV7$ysptp.js1080
+CCTV-7国防军事,http://A/ku9/js/xxtp.js?id=CCTV7&warn=脚本免费请勿商用$xxtp.js1080
 CCTV-7国防军事,http://AAAA/PLTV/ku9/js/Migu.js?id=cctv7$Migu.js1080
 CCTV-7国防军事,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221225733$hlj.js1080
 CCTV-7国防军事,http://goo.bkpcp.top/mg/cctv7$咪咕1080
@@ -389,7 +389,7 @@ CCTV-8电视剧,http://A/ku9/js/hosts.js?channel-id=wasusyt&Contentid=6000000001
 CCTV-8电视剧,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000005000265008&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
 CCTV-8电视剧,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000001000003736&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
 CCTV-8电视剧,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000010000018377&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsB1080
-CCTV-8电视剧,http://A/ku9/js/ysptp.js?id=CCTV8$ysptp.js1080
+CCTV-8电视剧,http://A/ku9/js/xxtp.js?id=CCTV8&warn=脚本免费请勿商用$xxtp.js1080
 CCTV-8电视剧,http://AAAA/PLTV/ku9/js/Migu.js?id=cctv8$Migu.js1080
 CCTV-8电视剧,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221226008$hlj.js1080
 CCTV-8电视剧,http://A/ku9/js/gctv.js?id=cctv8&key=酷9JS交流群424765458,请勿商用!$gctv.js1080
@@ -425,7 +425,7 @@ CCTV-9纪录,http://A/ku9/js/hosts.js?channel-id=wasusyt&Contentid=6000000001000
 CCTV-9纪录,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000005000265009&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
 CCTV-9纪录,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000001000028286&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
 CCTV-9纪录,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000010000018384&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsB1080
-CCTV-9纪录,http://A/ku9/js/ysptp.js?id=CCTV9$ysptp.js1080
+CCTV-9纪录,http://A/ku9/js/xxtp.js?id=CCTV9&warn=脚本免费请勿商用$xxtp.js1080
 CCTV-9纪录,http://AAAA/PLTV/ku9/js/Migu.js?id=cctv9$Migu.js1080
 CCTV-9纪录,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221225734$hlj.js1080
 CCTV-9纪录,http://A/ku9/js/gctv.js?id=cctv9&key=酷9JS交流群424765458,请勿商用!$gctv.js1080
@@ -460,7 +460,7 @@ CCTV-10科教,http://A/ku9/js/hosts.js?channel-id=wasusyt&Contentid=600000000100
 CCTV-10科教,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000005000265010&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
 CCTV-10科教,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000001000026367&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
 CCTV-10科教,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000010000016738&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsB1080
-CCTV-10科教,http://A/ku9/js/ysptp.js?id=CCTV10$ysptp.js1080
+CCTV-10科教,http://A/ku9/js/xxtp.js?id=CCTV10&warn=脚本免费请勿商用$xxtp.js1080
 CCTV-10科教,http://AAAA/PLTV/ku9/js/Migu.js?id=cctv10$Migu.js1080
 CCTV-10科教,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221225730$hlj.js1080
 CCTV-10科教,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221226473$hlj.js1080
@@ -492,7 +492,7 @@ CCTV-11戏曲,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000011000
 CCTV-11戏曲,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000005000265011&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
 CCTV-11戏曲,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000002000019789&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
 CCTV-11戏曲,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000006000040011&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsB1080
-CCTV-11戏曲,http://A/ku9/js/ysptp.js?id=CCTV11$ysptp.js1080
+CCTV-11戏曲,http://A/ku9/js/xxtp.js?id=CCTV11&warn=脚本免费请勿商用$xxtp.js1080
 CCTV-11戏曲,http://AAAA/PLTV/ku9/js/Migu.js?id=cctv11$Migu.js1080
 CCTV-11戏曲,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221226565$hlj.js1080
 CCTV-11戏曲,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221225597$hlj.js1080
@@ -527,7 +527,7 @@ CCTV-12社会与法,http://A/ku9/js/hosts.js?channel-id=wasusyt&Contentid=600000
 CCTV-12社会与法,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000005000265012&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
 CCTV-12社会与法,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000001000001640&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
 CCTV-12社会与法,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000006000040012&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsB1080
-CCTV-12社会与法,http://A/ku9/js/ysptp.js?id=CCTV12$ysptp.js1080
+CCTV-12社会与法,http://A/ku9/js/xxtp.js?id=CCTV12&warn=脚本免费请勿商用$xxtp.js1080
 CCTV-12社会与法,http://AAAA/PLTV/ku9/js/Migu.js?id=cctv12$Migu.js1080
 CCTV-12社会与法,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221225731$hlj.js1080
 CCTV-12社会与法,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221226568$hlj.js1080
@@ -560,8 +560,8 @@ CCTV-13新闻,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000011000
 CCTV-13新闻,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000005000265101&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
 CCTV-13新闻,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000002000021303&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
 CCTV-13新闻,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000005000001827&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsB1080
+CCTV-13新闻,http://A/ku9/js/xxtp.js?id=CCTV13&warn=脚本免费请勿商用$xxtp.js1080
 CCTV-13新闻,http://脚本只支持本地/ku9/js/ku9-Player.js?sid=IPTV&tid=01&id=14&key=酷9JS交流群424765458$Player1080
-CCTV-13新闻,http://A/ku9/js/ysptp.js?id=CCTV13$ysptp.js1080
 CCTV-13新闻,http://AAAA/PLTV/ku9/js/Migu.js?id=cctv13$Migu.js1080
 CCTV-13新闻,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221226537$hlj.js1080
 CCTV-13新闻,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221226571$hlj.js1080
@@ -600,7 +600,7 @@ CCTV-14少儿,http://A/ku9/js/hosts.js?channel-id=wasusyt&Contentid=600000000100
 CCTV-14少儿,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000005000265013&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
 CCTV-14少儿,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000001000021349&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
 CCTV-14少儿,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000010000023358&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsB1080
-CCTV-14少儿,http://A/ku9/js/ysptp.js?id=CCTV14$ysptp.js1080
+CCTV-14少儿,http://A/ku9/js/xxtp.js?id=CCTV14&warn=脚本免费请勿商用$xxtp.js1080
 CCTV-14少儿,http://AAAA/PLTV/ku9/js/Migu.js?id=cctv14$Migu.js1080
 CCTV-14少儿,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221225732$hlj.js1080
 CCTV-14少儿,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221226591$hlj.js1080
@@ -635,7 +635,7 @@ CCTV-15音乐,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000011000
 CCTV-15音乐,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000005000265014&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
 CCTV-15音乐,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000002000008163&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
 CCTV-15音乐,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000005000018417&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsB1080
-CCTV-15音乐,http://A/ku9/js/ysptp.js?id=CCTV15$ysptp.js1080
+CCTV-15音乐,http://A/ku9/js/xxtp.js?id=CCTV15&warn=脚本免费请勿商用$xxtp.js1080
 CCTV-15音乐,http://AAAA/PLTV/ku9/js/Migu.js?id=cctv15$Migu.js1080
 CCTV-15音乐,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221226476$hlj.js1080
 CCTV-15音乐,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221225601$hlj.js1080
@@ -668,9 +668,9 @@ CCTV-16奥林匹克,http://A/ku9/js/bestv.js?id=cctv16hd8m/8000000&key=脚本免
 CCTV-16奥林匹克,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000006000233002&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
 CCTV-16奥林匹克,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000008000023253&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsB1080
 CCTV-16奥林匹克,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000006000233001&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
+CCTV-16奥林匹克,http://A/ku9/js/xxtp.js?id=CCTV16&warn=脚本免费请勿商用$xxtp.js1080
 CCTV-16奥林匹克,http://脚本只支持本地/ku9/js/ku9-Player.js?sid=IPTV&tid=01&id=17&key=酷9JS交流群424765458$Player1080
 CCTV-16奥林匹克,http://脚本只支持本地/ku9/js/ku9-Player.js?sid=IPTV&tid=06&id=7&key=酷9JS交流群424765458$四季1080
-CCTV-16奥林匹克,http://A/ku9/js/ysptp.js?id=CCTV16$ysptp.js1080
 CCTV-16奥林匹克,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221226100$hlj.js1080
 CCTV-16奥林匹克,http://A/ku9/js/gctv.js?id=cctv16&key=酷9JS交流群424765458,请勿商用!$gctv.js1080
 CCTV-16奥林匹克,http://A/ku9/js/jxlb.js?id=CCTV16HD$jxlb.js1080
@@ -685,8 +685,8 @@ CCTV-17农业农村,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000
 CCTV-17农业农村,http://A/ku9/js/hosts.js?channel-id=bestzb&Contentid=5000000011000288014&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsB1080
 CCTV-17农业农村,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000005000265015&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
 CCTV-17农业农村,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=1000000005000056836&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY1080
+CCTV-17农业农村,http://A/ku9/js/xxtp.js?id=CCTV17&warn=脚本免费请勿商用$xxtp.js1080
 CCTV-17农业农村,http://脚本只支持本地/ku9/js/ku9-Player.js?sid=IPTV&tid=01&id=18&key=酷9JS交流群424765458$Player1080
-CCTV-17农业农村,http://A/ku9/js/ysptp.js?id=CCTV17$ysptp.js1080
 CCTV-17农业农村,http://AAAA/PLTV/ku9/js/Migu.js?id=cctv17$Migu.js1080
 CCTV-17农业农村,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221225765$hlj.js1080
 CCTV-17农业农村,http://goo.bkpcp.top/mg/cctv17$咪咕1080
@@ -705,13 +705,13 @@ CCTV-17农业农村,http://116.28.125.17:5000/rtp/239.77.0.115:5146$576广东电
 CCTV-17农业农村,http://219.145.20.198:9997/rtp/239.112.205.210:5140$576陕西电信
 CCTV-17农业农村,http://A/PLTV/ku9/js/kuaizhibo.js?id=cctv17$kuaizhibo.js480
 CCTV-4K,http://A/ku9/js/bestv.js?id=cctv4k/15000000&key=脚本免费，请勿收费商用！交流群424765458&fbl=/PLTV/$bestv.js2160
-CCTV-4K,http://A/ku9/js/ysptp.js?id=CCTV4K超高清$ysptp.js2160
+CCTV-4K,http://A/ku9/js/xxtp.js?id=CCTV4K超高清&warn=脚本免费请勿商用$xxtp.js2160
 CCTV-4K,http://116.28.125.17:5000/rtp/239.77.0.174:5146$2160广东电信
 CCTV-4K,http://116.28.125.17:5000/rtp/239.77.0.194:5146$2160广东电信
 CCTV-4K,http://116.28.125.17:5000/rtp/239.77.1.180:5146$2160广东电信
 CCTV-4K,http://219.145.20.198:9997/rtp/239.111.205.1:5140$2160陕西电信
 CCTV-4K,http://219.145.20.198:9997/rtp/239.111.205.38:5140$2160陕西电信
-CCTV-8K,http://A/ku9/js/ysptp.js?id=CCTV8K$ysptp.js2160
+CCTV-8K,http://A/ku9/js/xxtp.js?id=CCTV8K&warn=脚本免费请勿商用$xxtp.js2160
 CCTV-世界地理,http://111.227.202.173:4022/rtp/239.254.201.226:7254$1080河北电信
 CCTV-世界地理,http://118.79.139.242:6001/rtp/226.0.2.222:9688$1080山西联通
 CCTV-世界地理,http://27.15.156.33:8004/rtp/225.0.4.207:7980$1080重庆联通
@@ -864,7 +864,7 @@ CETV4,http://219.145.20.198:9997/rtp/239.111.205.169:5140$576陕西电信
 中央新影发现之旅,http://116.28.125.17:5000/rtp/239.253.43.127:5146$576广东电信
 中央新影发现之旅,http://116.28.125.17:5000/rtp/239.77.1.112:5146$576广东电信
 CGTN,http://A/ku9/js/hosts.js?channel-id=hnbblive&Contentid=7745129417417101820&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsH1080
-CGTN,http://A/ku9/js/ysptp.js?id=CGTN$ysptp.js1080
+CGTN,http://A/ku9/js/xxtp.js?id=CGTN&warn=脚本免费请勿商用$xxtp.js1080
 CGTN,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221225604$hlj.js1080
 CGTN,http://111.227.202.173:4022/rtp/239.254.200.12:8056$1080河北电信
 CGTN,http://171.213.135.192:19999/rtp/239.93.0.104:5140$1080四川电信
@@ -881,7 +881,7 @@ CGTN,http://219.145.20.198:9997/rtp/239.112.205.14:5140$576陕西电信
 CGTN,http://AAAA/PLTV/ku9/js/Migu.js?id=cgtn$Migu.js480
 CGTN,http://goo.bkpcp.top/mg/cgtn$咪咕480
 CGTN纪录,http://A/ku9/js/hosts.js?channel-id=hnbblive&Contentid=7114647837765104058&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsH1080
-CGTN纪录,http://A/ku9/js/ysptp.js?id=CGTN记录$ysptp.js1080
+CGTN纪录,http://A/ku9/js/xxtp.js?id=CGTN记录&warn=脚本免费请勿商用$xxtp.js1080
 CGTN纪录,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221225602$hlj.js1080
 CGTN纪录,http://111.227.202.173:4022/rtp/239.254.201.208:4220$1080河北电信
 CGTN纪录,http://116.28.125.17:5000/rtp/239.253.43.122:5146$1080广东电信
@@ -889,7 +889,7 @@ CGTN纪录,http://219.145.20.198:9997/rtp/239.111.205.85:5140$1080陕西电信
 CGTN纪录,http://A/ku9/js/hosts.js?channel-id=ystenlive&Contentid=8428799834696888424&key=脚本免费，请勿收费商用！交流群424765458&ip=39.134.145.164$hostsY576
 CGTN纪录,http://AAAA/PLTV/ku9/js/Migu.js?id=cgyy$Migu.js480
 CGTN纪录,http://goo.bkpcp.top/mg/cgyy$咪咕480
-CGTN俄语,http://A/ku9/js/ysptp.js?id=CGTN俄语$ysptp.js1080
+CGTN俄语,http://A/ku9/js/xxtp.js?id=CGTN俄语&warn=脚本免费请勿商用$xxtp.js1080
 CGTN俄语,http://111.227.202.173:4022/rtp/239.254.201.212:4220$1080河北电信
 CGTN俄语,http://116.28.125.17:5000/rtp/239.253.43.201:5146$1080广东电信
 CGTN俄语,http://219.145.20.198:9997/rtp/239.111.205.87:5140$1080陕西电信
@@ -899,7 +899,7 @@ CGTN俄语,http://AAAA/PLTV/ku9/js/Migu.js?id=cgtne$Migu.js480
 CGTN俄语,http://AAAA/PLTV/ku9/js/Migu.js?id=cgey$Migu.js480
 CGTN俄语,http://goo.bkpcp.top/mg/cgtne$咪咕480
 CGTN俄语,http://goo.bkpcp.top/mg/cgey$咪咕480
-CGTN法语,http://A/ku9/js/ysptp.js?id=CGTN法语$ysptp.js1080
+CGTN法语,http://A/ku9/js/xxtp.js?id=CGTN法语&warn=脚本免费请勿商用$xxtp.js1080
 CGTN法语,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221226520$hlj.js1080
 CGTN法语,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221226543$hlj.js1080
 CGTN法语,http://111.227.202.173:4022/rtp/239.254.201.210:4220$1080河北电信
@@ -912,7 +912,7 @@ CGTN法语,http://AAAA/PLTV/ku9/js/Migu.js?id=cgtnf$Migu.js480
 CGTN法语,http://AAAA/PLTV/ku9/js/Migu.js?id=cgfy$Migu.js480
 CGTN法语,http://goo.bkpcp.top/mg/cgtnf$咪咕480
 CGTN法语,http://goo.bkpcp.top/mg/cgfy$咪咕480
-CGTN西班牙语,http://A/ku9/js/ysptp.js?id=CGTN西班牙语$ysptp.js1080
+CGTN西班牙语,http://A/ku9/js/xxtp.js?id=CGTN西班牙语&warn=脚本免费请勿商用$xxtp.js1080
 CGTN西班牙语,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221226431$hlj.js1080
 CGTN西班牙语,http://111.227.202.173:4022/rtp/239.254.201.209:4220$1080河北电信
 CGTN西班牙语,http://171.213.135.192:19999/rtp/239.93.42.49:5140$1080四川电信
@@ -924,7 +924,7 @@ CGTN西班牙语,http://AAAA/PLTV/ku9/js/Migu.js?id=cgtnx$Migu.js480
 CGTN西班牙语,http://AAAA/PLTV/ku9/js/Migu.js?id=cgxy$Migu.js480
 CGTN西班牙语,http://goo.bkpcp.top/mg/cgtnx$咪咕480
 CGTN西班牙语,http://goo.bkpcp.top/mg/cgxy$咪咕480
-CGTN阿拉伯语,http://A/ku9/js/ysptp.js?id=CGTN阿拉伯语$ysptp.js1080
+CGTN阿拉伯语,http://A/ku9/js/xxtp.js?id=CGTN阿拉伯语&warn=脚本免费请勿商用$xxtp.js1080
 CGTN阿拉伯语,http://春节快乐/PLTV/ku9/js/hlj.js?id=3221226517$hlj.js1080
 CGTN阿拉伯语,http://111.227.202.173:4022/rtp/239.254.201.211:4220$1080河北电信
 CGTN阿拉伯语,http://116.28.125.17:5000/rtp/239.253.43.200:5146$1080广东电信
